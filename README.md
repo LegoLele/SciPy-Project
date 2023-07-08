@@ -1,6 +1,6 @@
-# **Scientific Programming in Python - Chat Analyzer**
+## **Scientific Programming in Python - Chat Analyzer**
 
-## The project is designed to analyze Telegram chat.
+### The project is designed to analyze Telegram chat.
 
 - 
 -
@@ -12,15 +12,15 @@
 # Contact
 
 **Melisa Altinyelek**
-Email: maltinyelek@uni-osnabrueck.de
-GitHub: [melisaaltinyelek](https://github.com/melisaaltinyelek)
+- Email: maltinyelek@uni-osnabrueck.de
+- GitHub: [melisaaltinyelek](https://github.com/melisaaltinyelek)
 
 **Leonard Schwanke**
-Email: 
-GitHub:
+- Email: 
+- GitHub:
 
 **Leo Ritterbecks**
-Email:
-GitHub:
+- Email:
+- GitHub:
 
 
