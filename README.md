@@ -1,6 +1,6 @@
 ## **Scientific Programming in Python - Chat Analyzer**
 
-### The project is designed to analyze WhatsApp/Telegram chat.
+### The project is designed to analyze WhatsApp chat.
 
 - 
 -

@@ -1,0 +1,1605 @@
+[09.05.22, 19:45:52] Introduction to Unity 👩🏼‍💻: ‎Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them.
+[09.05.22, 19:45:52] Introduction to Unity 👩🏼‍💻: ‎You created group “Introduction to Unity 👩🏼‍💻”
+[09.05.22, 19:46:15] Melisa: Helloooo! :)
+‎[09.05.22, 19:50:31] Melisa: ‎image omitted
+[09.05.22, 20:18:12] Gaia Gragnolati: Hii :)
+‎[09.05.22, 20:18:46] Gaia Gragnolati: ‎image omitted
+[09.05.22, 20:23:22] Melisa: I think the one at the top should be enough but just to make sure, you can delete the second one
+[09.05.22, 20:23:27] Melisa: I'll also delete the other one I have
+[09.05.22, 20:23:45] Melisa: So we wouldn't have any bugs or issues :D
+[09.05.22, 20:24:59] Gaia Gragnolati: 👍
+[09.05.22, 20:32:25] Melisa: but somehow I got an version error while loading project so installing a different version now
+[09.05.22, 20:32:33] Melisa: will let you know about which one is working properly
+‎[09.05.22, 21:39:51] Melisa: ‎image omitted
+[12.05.22, 10:05:20] Chloe Azor: Hey guys! So sorry for only replying now! My unity videos are for some reason not working anymore🥴. Are they still working for you guys?
+‎[12.05.22, 10:05:35] Chloe Azor: ‎<attached: 00000015-PHOTO-2022-05-12-10-05-35.jpg>
+[12.05.22, 10:08:36] Melisa: Heey! The videos on courseware seem to work for me
+‎[12.05.22, 10:09:56] Melisa: ‎image omitted
+[12.05.22, 10:11:14] Chloe Azor: I will do the first content today! So sorry! I am a bit behind as I had so much stuff due this week! But I’ll start today and send it through
+[12.05.22, 10:11:47] Melisa: No worries, I'm also behind and they did not even upload the second part on the 2nd day, they did upload 2nd and 3rd content on Wednesday ..
+[12.05.22, 19:23:47] Melisa: https://youtu.be/RGOj5yH7evk
+
+This is a great video to learn Git, I'm almost done with it and I think it is easily understandable for beginners :)
+[18.05.22, 09:42:04] Gaia Gragnolati: ‎This message was deleted.
+[23.05.22, 12:05:51] Melisa: Hey, how are you guys doing? Would you like to meet on Thursday or on Friday to talk about the project?
+[23.05.22, 12:06:27] Chloe Azor: Hi! I’m good thanks and you! Yes Friday would work 😊
+[23.05.22, 12:06:42] Melisa: Thank you so much, I'm also fine :)
+[23.05.22, 12:06:50] Melisa: When would you guys be available then?
+[23.05.22, 12:15:07] Gaia Gragnolati: Hey, that be nice! Friday also works for me. I can from 14 onwards
+[23.05.22, 12:15:23] Chloe Azor: Perfect😊😊
+[23.05.22, 12:23:04] Melisa: I can as well. So maybe meeting at 16:00 pm if it is fine for everyone?
+[23.05.22, 12:23:15] Melisa: and where shall we meet?
+[23.05.22, 12:23:19] Chloe Azor: Yes perfect!
+[23.05.22, 12:23:25] Chloe Azor: I don’t mind😊
+[23.05.22, 12:23:37] Chloe Azor: Do you guys stay closer to westerberg or innenstadt??
+[23.05.22, 12:35:49] Melisa: I'm living in Schinkel but can come anyway so it is not an issue for me
+[23.05.22, 12:35:50] Gaia Gragnolati: Innenstadt
+[23.05.22, 12:36:18] Chloe Azor: I am in Wuste so I’m also close to the innenstadt 😊
+[23.05.22, 12:36:25] Gaia Gragnolati: If I don't work is good, but just in case I would meet earlier
+[23.05.22, 12:36:34] Chloe Azor: Innenstadt cafeteria maybe?
+[23.05.22, 12:36:45] Chloe Azor: Or if online would be better for you guys?
+[23.05.22, 12:36:55] Melisa: Both are fine for me actually
+[23.05.22, 12:37:00] Chloe Azor: The Mensa cafeteria thingy
+[23.05.22, 12:37:32] Melisa: There should be some sockets right? :D
+[23.05.22, 12:37:38] Melisa: to plug in laptops
+[23.05.22, 12:37:47] Chloe Azor: Jip😊
+[23.05.22, 12:37:56] Melisa: Perfekt! :) I'm down to meet there
+[23.05.22, 12:38:27] Chloe Azor: But Gaia if online would be better for you then we could also do that and then next time meet in person?😊. I am really fine with anything
+[23.05.22, 12:38:30] Gaia Gragnolati: Mensa closes at 15 though
+[23.05.22, 12:38:47] Chloe Azor: Ahhh okayy nevermind then😂
+[23.05.22, 12:39:05] Gaia Gragnolati: What about having breakfast at the Cafeteria then? So meeting in the morning
+[23.05.22, 12:39:27] Chloe Azor: I have a lecture at 10 unfortunately 🥴
+[23.05.22, 12:40:43] Gaia Gragnolati: Ahh okay
+[23.05.22, 12:41:05] Gaia Gragnolati: What about 14 at the Cafeteria? I think 1hr would be enough
+[23.05.22, 12:41:26] Chloe Azor: That’ll work😊
+[23.05.22, 12:42:07] Melisa: It is fine :) We could talk about what to do next, or brainstorm about what kind of a game we wanna build
+[23.05.22, 12:49:21] Gaia Gragnolati: Nice! See you Friday then :)
+[23.05.22, 12:56:55] Melisa: See you then! 🧠
+[26.05.22, 19:05:34] Gaia Gragnolati: Hey guys, I just found out  that the Cafeteria is probably closed tomorrow cause is holiday (?)
+[26.05.22, 19:05:58] Gaia Gragnolati: So at this point we can meet online for tomorrow?
+[26.05.22, 19:06:02] Chloe Azor: Should we meet online then?
+[26.05.22, 19:06:08] Chloe Azor: 💯💯👍🏻👍🏻
+[26.05.22, 19:08:00] Melisa: It is okay for me
+[26.05.22, 19:08:18] Melisa: Shall I create a discord group for us?
+[26.05.22, 19:08:23] Melisa: I think it is way better than BBB or Zoom
+[26.05.22, 19:11:58] Gaia Gragnolati: Yes ahha, everything but BBB pls 🤣
+[26.05.22, 19:12:39] Melisa: https://discord.gg/deFtJu9X
+[26.05.22, 19:12:48] Gaia Gragnolati: Also could we do 1430?
+[26.05.22, 19:12:53] Melisa: Yeah sure
+[27.05.22, 14:36:04] Melisa: We are on discord :)
+[27.05.22, 17:10:26] Melisa: I got a funny idea like creating a game in space environment and our main character will be an alien and the enemies are different humans :D
+[27.05.22, 17:10:45] Melisa: the humans that spawn in random places lol
+[27.05.22, 17:10:52] Chloe Azor: That’s sooo coool!
+[27.05.22, 17:10:55] Chloe Azor: I like it!
+[27.05.22, 17:11:00] Melisa: hahah thank you! :D
+[27.05.22, 17:11:04] Melisa: 👽
+[28.05.22, 10:45:25] Gaia Gragnolati: hey guys, have you done the UI part of day 5 ? I am having some problems with it
+[28.05.22, 10:45:57] Melisa: I am in the spawn manager and I did everything exactly the same but the enemies are not moving somehow
+[28.05.22, 10:46:12] Melisa: they just clone and stand on the sky
+[28.05.22, 10:46:29] Gaia Gragnolati: did you attach the script to the enemies?
+[28.05.22, 10:46:35] Melisa: Yes I did
+[28.05.22, 10:46:47] Melisa: I mean there is no enemy object left
+[28.05.22, 10:46:52] Melisa: they deleted them in the beginning of the video
+‎[28.05.22, 10:47:14] Melisa: ‎image omitted
+[28.05.22, 10:48:14] Gaia Gragnolati: i got stuck many times throughout the lectures ahha, i suggest rewatching the videos carefully and check every small detail
+[28.05.22, 10:48:33] Melisa: It is wasting my time a lot already
+[28.05.22, 10:48:42] Melisa: I do everything the same and still don't get why
+[28.05.22, 10:48:55] Gaia Gragnolati: i feel you, i took so much time to go through the material ahah
+[28.05.22, 10:49:13] Melisa: and c# is not really taught so I cannot detect errors
+[28.05.22, 10:49:15] Melisa: it is not possible
+[28.05.22, 10:50:01] Gaia Gragnolati: look if the inspector of the spawn manager is set up eactly like theirs
+[28.05.22, 10:50:40] Melisa: I mean everything was alright and moving except this video
+[28.05.22, 10:50:42] Melisa: I don't know
+[28.05.22, 10:50:50] Melisa: till this video*
+[28.05.22, 11:42:11] Melisa: now the enemies and the player collide and I cannot kill them by pressing E ..
+[28.05.22, 11:42:34] Melisa: I feel like they do not update the videos or do different stuff and then merge because I do everything accordingly and still doesn't work
+‎[28.05.22, 11:53:01] Gaia Gragnolati: ‎<attached: 00000094-AUDIO-2022-05-28-11-53-01.opus>
+[28.05.22, 11:54:24] Melisa: Yeah if I can manage to solve it I’ll try to help you with that part
+‎[28.05.22, 11:54:58] Gaia Gragnolati: ‎<attached: 00000096-AUDIO-2022-05-28-11-54-58.opus>
+[28.05.22, 11:56:27] Melisa: I just don't wanna destroy some code that works properly :/
+[28.05.22, 11:56:43] Melisa: watching the videos makes my game broken somehow it is really weird
+[28.05.22, 11:58:58] Gaia Gragnolati: you won't, you can always rewrite it
+[28.05.22, 11:59:08] Gaia Gragnolati: or copy and paste it somewhere if you are afraid
+[28.05.22, 11:59:11] Melisa: is your player spawning again after it dies  for 3 times?
+[28.05.22, 11:59:22] Melisa: Yeah maybe
+[28.05.22, 12:00:49] Gaia Gragnolati: i had the same issue to fix
+[28.05.22, 12:01:00] Melisa: it just disappears ..
+[28.05.22, 12:01:13] Gaia Gragnolati: is the enemy thingy set on "is trigger"
+[28.05.22, 12:01:31] Melisa: enemy prefab is triggered
+[28.05.22, 12:01:32] Melisa: yes
+[28.05.22, 12:01:57] Gaia Gragnolati: what about hte spawn manager thing
+[28.05.22, 12:02:16] Melisa: it doesn't have such a menu
+[28.05.22, 12:02:25] Melisa: I attached the enemy there
+[28.05.22, 12:02:35] Melisa: This one
+[28.05.22, 12:05:53] Melisa: I have 2 major problems:
+My bullet doesn't kill the enemies
+My player disappears after it gets into contact with an enemy for 3 times
+‎[28.05.22, 12:07:22] Gaia Gragnolati: ‎<attached: 00000113-AUDIO-2022-05-28-12-07-22.opus>
+[28.05.22, 12:08:46] Gaia Gragnolati: i just solved my problem which i thought was impossible to solve ahahahah
+[28.05.22, 12:08:56] Gaia Gragnolati: so you got this💪
+[28.05.22, 12:09:21] Melisa: Oh cool
+[28.05.22, 12:09:26] Gaia Gragnolati: if i have time before work we can have a call and go over it (if you re still stuck)
+[28.05.22, 12:10:15] Melisa: I am not sure if I can solve it but will see. Will let you know :)
+[28.05.22, 12:21:27] Chloe Azor: Hey guys! I am so sorry I am a little bit behind. But I will definitely catch up everything before Monday
+[28.05.22, 12:21:48] Melisa: Hey Chloe, no worries :)
+[28.05.22, 15:53:59] Chloe Azor: Hey guys! I must be doing something wrong because I can’t get my player to move
+[28.05.22, 15:54:06] Chloe Azor: Does anyone maybe have ideas?
+[28.05.22, 16:46:38] Gaia Gragnolati: Idk, as I said before,best thing is to rewatch the video and check every tiny thing in the script and on the engine
+[28.05.22, 16:47:46] Gaia Gragnolati: It gets really tricky sometimes
+[28.05.22, 17:08:42] Chloe Azor: Okay perfect! Thank you
+‎[29.05.22, 13:10:11] Melisa: ‎image omitted
+[29.05.22, 13:11:48] Chloe Azor: I am almost there! So unfortunately can’t help you as yet🥴.
+[29.05.22, 13:12:25] Melisa: It is fine :) I was also thinking how to have a structure for our project, like step by step writing everything down
+[29.05.22, 13:12:33] Melisa: I am planning to take some notes from the beginning
+[29.05.22, 13:13:00] Chloe Azor: Yes I think to have a structure will be really good and hep a lot
+[29.05.22, 13:13:37] Melisa: Exactly
+[29.05.22, 13:16:45] Gaia Gragnolati: I had the same
+[29.05.22, 13:17:13] Gaia Gragnolati: You have to change the code on the script
+[29.05.22, 13:17:33] Gaia Gragnolati: It took me a long time to figure out how to fix it🙈
+‎[29.05.22, 13:17:50] Gaia Gragnolati: ‎image omitted
+[29.05.22, 13:21:03] Melisa: thank you so much! :D
+[29.05.22, 19:23:45] Gaia Gragnolati: Hey guys, how is it going? Just to check: do you think u ll be finished for tomorrow? :)
+‎[29.05.22, 19:50:16] Chloe Azor: ‎<attached: 00000138-PHOTO-2022-05-29-19-50-16.jpg>
+[29.05.22, 19:50:37] Chloe Azor: I should be😬😊
+[29.05.22, 19:52:17] Gaia Gragnolati: Oh no 😱
+‎[29.05.22, 19:53:00] Chloe Azor: ‎<attached: 00000141-PHOTO-2022-05-29-19-53-00.jpg>
+[29.05.22, 20:34:22] Gaia Gragnolati: Oh shit, no way to restore it?
+[29.05.22, 21:08:27] Melisa: Hey. I just did not watch the day 6 but already taking notes on day 1 and 2
+[29.05.22, 21:11:50] Melisa: Oh :/ I wish I knew a solution. Did you check official unity website?
+[29.05.22, 21:12:48] Melisa: I was also gonna say that I think we need to use git together to work collaboratively. I kinda know about it but haven’t worked with others so far
+[29.05.22, 21:20:03] Chloe Azor: I agree! I have downloaded everything but maybe tomorrow morning you can show me how it works 😊
+[29.05.22, 21:20:28] Chloe Azor: Jip I did but it doesn’t work☹️
+[29.05.22, 21:21:02] Chloe Azor: So I will definitely try my best to finish everything by tomorrow but because I have to start over now I don’t know how far I’ll get🥲. I am so sorry about this
+[29.05.22, 21:28:29] Gaia Gragnolati: If you guys prefer finishing up everything before meeting we could also postpone it to the afternoon :)
+[29.05.22, 21:39:47] Melisa: I may not join afternoon since I have another meeting at work :/
+[29.05.22, 21:42:00] Melisa: I learned about the basics from a crash course that I sent here and on discord, I can definitely share what I’ve learned but since we are multiple people, we’ll be sometimes updating or coding independently and these changes should be pushed to git that I don’t know yet 😅 As I’ve heard, there are concepts like merge etc
+[29.05.22, 21:42:10] Melisa: It should be doable I believe
+[29.05.22, 21:44:16] Gaia Gragnolati: Ok then let s keep it in the morning, 9:30 is fine for everyone?
+[29.05.22, 21:44:35] Melisa: Yes, it is fine for me
+[29.05.22, 21:45:33] Gaia Gragnolati: Tomorrow we ll need to make a really big plan about everything 😂
+[29.05.22, 21:45:49] Melisa: True :D
+[29.05.22, 22:33:49] Chloe Azor: Perfect! See you guys tomorrow 😊
+[29.05.22, 22:34:11] Melisa: See you tomorrow! :)
+[30.05.22, 09:28:32] Melisa: Good morning, I am in the cafereria now :)
+[30.05.22, 09:28:44] Chloe Azor: I will be there in 3 min😊
+[30.05.22, 09:28:55] Melisa: Great!
+[30.05.22, 09:29:01] Gaia Gragnolati: Coming
+[30.05.22, 09:46:24] Melisa: melisaaltinyelek@hotmail.com
+[30.05.22, 09:46:28] Chloe Azor: chloeazor04@gmail.com
+[30.05.22, 10:00:51] Melisa: https://youtu.be/RGOj5yH7evk
+[30.05.22, 10:48:09] Gaia Gragnolati: https://assetstore.unity.com/packages/2d/textures-materials/planets-with-space-background-in-flat-style-95983#description
+‎[31.05.22, 11:03:47] Melisa: ‎image omitted
+[31.05.22, 11:04:13] Melisa: The funny thing is it was working fine yesterday when we met and I did not even change anything
+[31.05.22, 11:04:48] Chloe Azor: Do you maybe have to click and drag it onto the player again?
+[31.05.22, 11:05:28] Melisa: dragging it what exactly? The player script is already there
+[31.05.22, 11:05:46] Chloe Azor: Ahhh😬
+[31.05.22, 11:05:47] Gaia Gragnolati: that means u havent attached some script to something (check the inspector thoroughly in both scene!)
+[31.05.22, 11:05:50] Chloe Azor: Then I’m not too sure!
+[31.05.22, 11:06:02] Melisa: I have one scene now
+[31.05.22, 11:06:07] Melisa: I don't know what to attach
+[31.05.22, 11:06:32] Gaia Gragnolati: check the inspector, if some components have a box saying "None"
+[31.05.22, 11:09:07] Gaia Gragnolati: anything found?
+[31.05.22, 11:11:18] Melisa: It is fine now, thank you so much
+[31.05.22, 11:11:31] Gaia Gragnolati: great :), you re welcome
+[31.05.22, 11:11:32] Melisa: Somehow the things I did during the video disappeared .. weird
+[31.05.22, 11:47:18] Melisa: I am trying to use some planets as platforms but since they are png files, I am not able to convert them into platforms yet. I'm trying to find a solution to that and then will let you know when it is done because everything will build up on the initial code 👽
+[31.05.22, 11:49:56] Chloe Azor: Okay coooool! Thank you so much
+[31.05.22, 11:53:35] Melisa: You are welcome!
+‎[31.05.22, 12:24:34] Melisa: ‎image omitted
+[31.05.22, 12:24:58] Chloe Azor: Oh my gosh that looks soooo cooool
+[31.05.22, 12:25:18] Melisa: our cute player can stand on the white planets now! :D
+[31.05.22, 12:35:44] Gaia Gragnolati: Looks great
+[31.05.22, 12:36:17] Melisa: I think I figured it how to insert the planets! :D
+[31.05.22, 12:36:19] Chloe Azor: I like this more than the platforms!
+‎[31.05.22, 12:38:30] Melisa: ‎image omitted
+[31.05.22, 12:39:15] Gaia Gragnolati: Cool
+[31.05.22, 12:39:23] Melisa: 👽
+[31.05.22, 12:39:33] Chloe Azor: 😱😱😱😱😱
+[31.05.22, 12:39:47] Chloe Azor: Oh my gosh I love it!!
+‎[31.05.22, 12:50:53] Melisa: ‎<attached: 00000195-PHOTO-2022-05-31-12-50-53.jpg>
+[31.05.22, 12:51:19] Chloe Azor: Me toooo😱😱. It’s going to look sooooo coool!
+[31.05.22, 12:51:33] Melisa: Yessssssss! :)
+[31.05.22, 12:52:24] Chloe Azor: Are all the levels going to look different ?
+[31.05.22, 12:52:50] Melisa: Then we'd need more assets if we don't wanna reuse them
+[31.05.22, 12:53:04] Melisa: I think at first we should keep 3 platforms and build on it. Then we can see
+[31.05.22, 12:53:29] Chloe Azor: Okay awesome! Sounds perfect!
+[31.05.22, 15:13:00] Gaia Gragnolati: Also I was thinking since we all have to work on our own unity engines and so create 3 different games per laptop so to say we can put 3 different titles and then pick one of them
+[31.05.22, 15:13:47] Gaia Gragnolati: So since we use many planets as platform maybe another name could be: space invasion of smt
+[31.05.22, 15:16:08] Melisa: You mean creating 3 different games?
+[31.05.22, 15:16:36] Melisa: I think it wouldn’t be useful. Instead we should learn how to work together by using git
+[31.05.22, 15:19:02] Melisa: And it’d be an individual project in that case
+[31.05.22, 15:21:26] Gaia Gragnolati: No I mean we by using the same codes of course
+[31.05.22, 15:23:04] Gaia Gragnolati: Sinc idk if we can figure out how to work together in the same game within thursday (for my part)
+[31.05.22, 15:23:07] Melisa: But it is hard to merge everything that way
+[31.05.22, 15:23:46] Melisa: That’s why we should learn it soon. I’ll start to find a resource now
+[31.05.22, 15:24:20] Gaia Gragnolati: I can do research about it tomorrow
+[31.05.22, 16:29:19] Melisa: When any of you are available, could you please try to follow these steps just to see if it is working:
+
+• Create a folder for the project on your local computer.
+• Inside that folder -> Right click -> Git Bash Here 
+• Type git clone <url> on the terminal and then enter (the url of our project is: https://github.com/melisaaltinyelek/Human_Invasion.git). 
+• Open the project on Unity Engine.
+[31.05.22, 16:29:29] Melisa: I am trying to prepare a document for us to use for Git
+[31.05.22, 18:01:51] Gaia Gragnolati: ‎Gaia Gragnolati changed this group's icon
+[31.05.22, 17:53:09] Gaia Gragnolati: This should open the game u re working on right?
+[31.05.22, 17:53:13] Gaia Gragnolati: I ll try it soon
+[31.05.22, 18:03:47] Melisa: This should clone all the files on my github to your pc
+[31.05.22, 18:03:59] Melisa: and then you should be able to see all the files and code on Unity Engine
+‎[31.05.22, 18:05:29] Gaia Gragnolati: ‎image omitted
+[31.05.22, 18:05:47] Gaia Gragnolati: I think it woked
+[31.05.22, 18:06:12] Melisa: Seems like working. Can you also try to open it via Unity?
+[31.05.22, 18:06:21] Gaia Gragnolati: But dont see it in unity
+[31.05.22, 18:06:36] Gaia Gragnolati: Oh sorry
+[31.05.22, 18:06:43] Melisa: did yoı click open and then select the folder itself
+‎[31.05.22, 18:06:56] Melisa: ‎image omitted
+‎[31.05.22, 18:07:18] Gaia Gragnolati: ‎image omitted
+[31.05.22, 18:07:37] Melisa: I mean can you try to select the whole folder
+[31.05.22, 18:07:50] Melisa: Human_Invasion itself
+[31.05.22, 18:08:10] Gaia Gragnolati: It would just open the su folders
+[31.05.22, 18:08:30] Gaia Gragnolati: Subfolders*
+[31.05.22, 18:09:03] Melisa: There should be a way to open it
+[31.05.22, 18:09:05] Melisa: we need to figure that out
+[31.05.22, 18:09:53] Gaia Gragnolati: can u send a pic of ur folders and the one u actually open for the project
+[31.05.22, 18:10:51] Melisa: There seems to be a few additional ones somehow but mine is working when I select the whole folderr
+[31.05.22, 18:10:53] Melisa: folder
+‎[31.05.22, 18:10:58] Melisa: ‎image omitted
+‎[31.05.22, 18:10:58] Melisa: ‎image omitted
+[31.05.22, 18:12:08] Gaia Gragnolati: it s weird, i m missing the human_invasion.sln file
+[31.05.22, 18:12:18] Gaia Gragnolati: you have many more subfolders and files inside
+[31.05.22, 18:12:29] Melisa: I don't know why
+[31.05.22, 18:12:34] Melisa: it is so fucking annoying
+[31.05.22, 18:12:52] Gaia Gragnolati: doesnt seem like you imported everything on the github
+[31.05.22, 18:13:05] Melisa: I did put everything by committing
+[31.05.22, 18:13:09] Gaia Gragnolati: i just have what u have here https://github.com/melisaaltinyelek/Human_Invasion.git).
+‎[31.05.22, 18:15:37] Melisa: ‎image omitted
+[31.05.22, 18:15:43] Melisa: and also the tutor wanted us to put there that's why
+[31.05.22, 18:15:48] Melisa: nothing is missing I believe
+‎[31.05.22, 18:17:27] Gaia Gragnolati: ‎<attached: 00000248-AUDIO-2022-05-31-18-17-27.opus>
+[31.05.22, 18:19:15] Melisa: I also created the game on Unity and then added to Git
+[31.05.22, 18:20:44] Melisa: so you are not able to select the whole file in Unity?
+[31.05.22, 18:20:48] Melisa: or does it give an error?
+[31.05.22, 18:24:50] Gaia Gragnolati: there is no file in unity
+[31.05.22, 18:25:42] Melisa: I couldn't really understand it sorry
+[31.05.22, 18:27:14] Gaia Gragnolati: https://www.youtube.com/watch?v=SyrUsj2gYnQ
+[31.05.22, 18:27:22] Gaia Gragnolati: i m watching this noew
+[31.05.22, 18:27:32] Melisa: I am also reading the courseware section on git
+[31.05.22, 18:31:33] Gaia Gragnolati: Did u set it to public
+[31.05.22, 18:32:54] Gaia Gragnolati: I think if you follow this it might solve it i
+[31.05.22, 18:33:11] Melisa: It is public
+[31.05.22, 18:39:12] Gaia Gragnolati: False alarm
+[31.05.22, 18:39:17] Gaia Gragnolati: I solved it
+[31.05.22, 18:39:39] Gaia Gragnolati: Sorry for the mess, i just had to open it directly from unity
+[31.05.22, 18:40:41] Gaia Gragnolati: As far as I understood every time you need to actively save the latest modifications on github for us to see it right ?
+‎[31.05.22, 18:42:40] Gaia Gragnolati: ‎image omitted
+[31.05.22, 18:51:36] Melisa: I did saved everything and pushed but I have no idea
+[31.05.22, 18:53:35] Melisa: I don't get why objects would disappear
+[31.05.22, 18:53:40] Gaia Gragnolati: did you do the "commit" thing
+[31.05.22, 18:57:22] Gaia Gragnolati: "commit changes"
+[31.05.22, 18:59:51] Melisa: I did
+[31.05.22, 19:00:15] Gaia Gragnolati: shit
+[31.05.22, 19:00:29] Gaia Gragnolati: we need to fix this somehow😱
+[31.05.22, 19:05:14] Gaia Gragnolati: ohh Melisa!!
+[31.05.22, 19:05:19] Gaia Gragnolati: I see it!
+[31.05.22, 19:05:27] Gaia Gragnolati: i just had to click on the scene thing
+[31.05.22, 19:05:47] Gaia Gragnolati: omg can t believe it, sorry 😅😅
+[31.05.22, 19:15:38] Gaia Gragnolati: now i need to figure out how to share the version with the changes back
+[31.05.22, 19:16:30] Melisa: No problem. Yeah we'll need to figure how to commit changes
+[31.05.22, 19:16:35] Melisa: and we need to have multiple branches
+[31.05.22, 19:17:09] Gaia Gragnolati: cause now this file is still not shared on my github
+[31.05.22, 19:17:40] Gaia Gragnolati: i will need to be able to see it on my github account right
+[31.05.22, 19:23:53] Gaia Gragnolati: there is the collaborative function on unity too (i just found out)
+[31.05.22, 20:01:15] Melisa: I have no idea about these yet but will let you know soon
+[31.05.22, 20:34:27] Gaia Gragnolati: i downloaded an extention of vscode for pulling request but it tried it and somehow does not work
+[31.05.22, 21:36:32] Gaia Gragnolati: ok so i ve been trying to figure it out but doesn t seem that easy from vscode, i just made a pull request directly in Git by modifiying the player script (i guess for now that s the simpliest option)
+[31.05.22, 21:53:27] Melisa: I can see the pull request now and am also trying to get my head around the whole git thing :D
+[31.05.22, 21:53:33] Melisa: I am not sure if we are supposed to do it
+[31.05.22, 22:01:38] Gaia Gragnolati: do what?
+[31.05.22, 22:01:57] Melisa: pull request
+[31.05.22, 22:02:20] Melisa: I feel like we are supposed to clone the repo as you did, and then work on it by adding and committing
+[31.05.22, 22:02:41] Gaia Gragnolati: is to send request for changes
+[31.05.22, 22:03:34] Gaia Gragnolati: i still dont know how commit actually works
+[31.05.22, 22:04:04] Gaia Gragnolati: once you commit the changes, the script is changed everywhere?
+[31.05.22, 22:04:14] Melisa: After we do some changes, we are supposed to stage it at first (e.g. git add . which stages all red files when we type git status)
+[31.05.22, 22:04:17] Melisa: no
+[31.05.22, 22:04:32] Melisa: then we need to commit and push those changes to git
+[31.05.22, 22:05:00] Melisa: I just have issues on how we'll create different branches and work on them together
+[31.05.22, 22:05:09] Melisa: so that we don't have any merge conflicts
+[31.05.22, 22:05:22] Gaia Gragnolati: but all of that is done directly in github?
+[31.05.22, 22:05:43] Melisa: you mean the commands that I just told you?
+[31.05.22, 22:06:14] Gaia Gragnolati: yea, cause i ve been trying on vscode for hours ahahha and i cant do it
+[31.05.22, 22:07:25] Gaia Gragnolati: also where do you see that i cloned it?
+[31.05.22, 22:11:51] Melisa: Are you available to meet on discord now?
+[31.05.22, 22:11:57] Melisa: me and Tobi are having a git session :D
+[31.05.22, 22:12:22] Melisa: he could explain us together
+[31.05.22, 22:12:23] Gaia Gragnolati: yea sure
+[31.05.22, 22:12:26] Melisa: because my prain is dead
+[31.05.22, 22:12:35] Gaia Gragnolati: give me 2 mins
+[31.05.22, 22:12:46] Melisa: as könig would say
+[31.05.22, 22:12:48] Melisa: yeah sure
+[31.05.22, 22:13:25] Gaia Gragnolati: can u send a link
+[31.05.22, 22:13:26] Gaia Gragnolati: pls
+[31.05.22, 22:13:45] Gaia Gragnolati: also mine ahah
+[31.05.22, 22:14:16] Melisa: I'll add you to our call :D
+[31.05.22, 23:34:49] Gaia Gragnolati: @4915752669689 hey Chloe! we have just learned some things about github and how to deal more efficiently with the project. Maybe tomorrow we can have a short call so we can explain you? (btw @491782002158 , I ll be at the Frosch in the afternoon if you wanna meet up in person)
+[31.05.22, 23:35:40] Gaia Gragnolati: i just added something on the google doc to see how we should divide up the scripts. Let me know if you agree :)
+[31.05.22, 23:38:29] Melisa: I have another work meeting tomorrow and need to go to the admissions office, otherwise I’d love to. Thank you so much :)
+[31.05.22, 23:38:41] Melisa: I’ll look at it tomorrow if it is fine
+[31.05.22, 23:40:07] Gaia Gragnolati: let s see tomorrow if when we can find sometime to meet online then :)
+[31.05.22, 23:40:45] Gaia Gragnolati: w/o if *
+[31.05.22, 23:40:47] Melisa: I could definitely meet online after 2pm :)
+[01.06.22, 06:32:38] Chloe Azor: Hey guys! So sorry for only reading your messages now and for not contributing last night! I actually booked a last minute train ticket to Frankfurt last night because my dad was rushed to hospital with kidney failure 🥴. So I’m on the train right now. I would love to meet up with you guys. I should be home after one and then will have time until 3:30? And then after 4:30 I will be free again. Would online be okay?
+[01.06.22, 06:33:58] Chloe Azor: I just saw this message now! After 2 will definitely work😊💪🏼
+[01.06.22, 11:03:48] Gaia Gragnolati: No worries, I hope he will get better 😞 !!!
+[01.06.22, 11:04:58] Gaia Gragnolati: I could around 1430. Also I can start working on the game today after our meeting :)
+[01.06.22, 12:13:03] Melisa: 14:30 is also fine for me
+[01.06.22, 12:54:40] Gaia Gragnolati: Actually i can make it for 14
+[01.06.22, 12:55:05] Melisa: I have some stuff to do in admissions office so I’ll let you know if I can make at 14pm
+[01.06.22, 12:59:22] Gaia Gragnolati: Oki
+[01.06.22, 13:45:12] Melisa: Can we make at 14:15? I just came home :D
+[01.06.22, 13:46:37] Chloe Azor: I’m also home so can also make it for 2 or 2:30
+[01.06.22, 13:47:24] Gaia Gragnolati: Yes
+[01.06.22, 13:53:30] Chloe Azor: Thank you so much❤️
+[01.06.22, 14:03:19] Chloe Azor: I am trying to follow the steps but inside of the folder where I right click it does not give an option for Git bash here😬
+‎[01.06.22, 14:05:41] Gaia Gragnolati: ‎<attached: 00000334-AUDIO-2022-06-01-14-05-41.opus>
+‎[01.06.22, 14:07:06] Chloe Azor: ‎image omitted
+[01.06.22, 14:09:10] Gaia Gragnolati: Try show view option
+[01.06.22, 14:09:47] Chloe Azor: Unfortunately nothing related to git
+‎[01.06.22, 14:09:52] Chloe Azor: ‎image omitted
+[01.06.22, 14:10:06] Melisa: can you open the terminal at first
+[01.06.22, 14:10:11] Gaia Gragnolati: u installed git on ur laptop?
+[01.06.22, 14:10:27] Melisa: and git --version
+[01.06.22, 14:10:37] Gaia Gragnolati: you can try to do that through the bash terminal
+[01.06.22, 14:11:27] Chloe Azor: Do I do this with no spaces
+‎[01.06.22, 14:12:14] Chloe Azor: ‎<attached: 00000344-AUDIO-2022-06-01-14-12-14.opus>
+[01.06.22, 14:12:26] Melisa: there is a space
+[01.06.22, 14:12:29] Melisa: git --version
+‎[01.06.22, 14:12:49] Chloe Azor: ‎image omitted
+[01.06.22, 14:12:52] Melisa: between git and first -, there is a space
+[01.06.22, 14:13:45] Gaia Gragnolati: let s go to the meeting and screen shar
+[01.06.22, 14:13:50] Melisa: yes
+[01.06.22, 14:14:04] Chloe Azor: I can’t seem to share my screen over discord….
+[01.06.22, 14:14:10] Chloe Azor: I’ve googled and everything
+[01.06.22, 14:14:13] Chloe Azor: Maybe you guys know how
+[01.06.22, 14:14:46] Gaia Gragnolati: can u enter with the audio
+‎[01.06.22, 14:15:23] Gaia Gragnolati: ‎image omitted
+[01.06.22, 14:18:02] Chloe Azor: Okay I am in the room
+‎[01.06.22, 14:20:52] Chloe Azor: ‎image omitted
+[01.06.22, 15:08:43] Chloe Azor: ‎This message was deleted.
+‎[01.06.22, 15:14:43] Melisa: 2. Start Programming.pdf • ‎3 pages ‎<attached: 00000359-2. Start Programming.pdf>
+[01.06.22, 16:41:29] Melisa: Hey Gaia. I created a new repo for our game on github and try to clone it to see if it is working
+[01.06.22, 16:41:46] Melisa: like you said yesterday, it is open but I have no objects or planets. How did  you fix it?
+[01.06.22, 16:42:06] Melisa: ah I guess by clicking on the game scene
+[01.06.22, 16:42:18] Gaia Gragnolati: Go to the scene and click on jt
+[01.06.22, 16:42:25] Melisa: Thank you so much! :)
+[01.06.22, 16:42:57] Gaia Gragnolati: What is this
+[01.06.22, 18:23:33] Melisa: I had some notes for the first section
+[01.06.22, 18:24:08] Melisa: I'll try to take more for the part that we'll deal tomorrow
+[01.06.22, 23:02:05] Melisa: Guys I think I forgot something. I'm expecting a document from the examination office but they still didn't reply to me. That's why I may need to go there next monday at 10am. Would it be okay to postpone the meeting to 11:00 or 11:30am?
+[01.06.22, 23:03:47] Melisa: oh no it is holiday then I guess ..
+‎[02.06.22, 08:41:31] Melisa: 3. First Steps with Unity.pdf • ‎2 pages ‎<attached: 00000370-3. First Steps with Unity.pdf>
+[02.06.22, 08:41:34] Melisa: Good morning. I prepared the notes for day 3
+[02.06.22, 16:42:14] Gaia Gragnolati: https://assetstore.unity.com/packages/2d/gui/icons/105-colorful-2d-planet-icons-71084#description
+[02.06.22, 16:42:20] Gaia Gragnolati: this planet assets looks quite nice too
+[02.06.22, 16:43:41] Melisa: Then I have to change them if we wanna use these
+[02.06.22, 16:43:54] Gaia Gragnolati: maybe it remains a bit more "clean" cause the planets are surrounded by circles for instance
+[02.06.22, 16:44:40] Gaia Gragnolati: we could try them out
+[02.06.22, 16:46:58] Gaia Gragnolati: https://assetstore.unity.com/packages/2d/environments/2d-space-kit-27662#description
+[02.06.22, 16:47:06] Gaia Gragnolati: this could be useful maybe for the spaceship
+[02.06.22, 16:48:24] Melisa: It looks cool imo but we can look at these ones as well
+[02.06.22, 16:50:06] Gaia Gragnolati: Maybe is better to see it with the background and later will evaluate the aesthetic more
+[02.06.22, 16:50:42] Gaia Gragnolati: https://assetstore.unity.com/packages/2d/characters/warped-space-shooter-181590#content  this might have space ship that really fits our assets :P
+[02.06.22, 17:53:31] Gaia Gragnolati: @491782002158, thank you a lot for the notes!! is there a way you can share them so i can open them with obsidian and see the entire code?
+[02.06.22, 17:55:57] Chloe Azor: Yes! Thank you so much for the notes
+[02.06.22, 17:56:23] Melisa: You are welcome :) I just finished my course I’ll look at it when I am home
+[02.06.22, 17:59:48] Chloe Azor: Ooeehh I also think this one will look nice!!
+[02.06.22, 17:59:54] Chloe Azor: For the space ship!
+[02.06.22, 18:01:49] Melisa: Can we meet at 19pm?
+[02.06.22, 18:02:00] Melisa: I need to eat smth beforehand
+[02.06.22, 18:02:17] Chloe Azor: I don’t mind😊
+[02.06.22, 18:10:53] Gaia Gragnolati: Yes, no problem :)
+[02.06.22, 18:11:05] Melisa: Thanks! 🌻
+[02.06.22, 22:44:04] Gaia Gragnolati: Guys, is 10 fine tomorrow? So i can manage to watch the videos before in the morning
+[03.06.22, 00:10:59] Melisa: Yeah it is fine for me
+[03.06.22, 06:49:52] Chloe Azor: For me as well😊🎉
+[03.06.22, 08:18:06] Melisa: I am trying to fix the jumping issue in the beginning. If I have time, I'!ll watch the videos as well. Can anyone watch the Day 4 and take some notes if possible?
+[03.06.22, 08:19:30] Chloe Azor: I can watch and take some notes😊
+[03.06.22, 08:19:47] Melisa: Thank you so much!
+[03.06.22, 08:49:13] Gaia Gragnolati: thank you!!
+‎[03.06.22, 08:52:08] Chloe Azor: ‎<attached: 00000399-AUDIO-2022-06-03-08-52-08.opus>
+[03.06.22, 08:52:20] Chloe Azor: Just lemme know and I can share the link😊
+[03.06.22, 09:00:59] Melisa: That would be nice
+[03.06.22, 09:01:56] Chloe Azor: What is your Gmail account again?
+[03.06.22, 09:02:13] Melisa: melisaaltinyelek@gmail.com
+[03.06.22, 09:02:19] Melisa: I cannot fix the issue btw I don't know why
+[03.06.22, 09:02:29] Melisa: it feels like it is related to the player and the platforms
+[03.06.22, 09:02:43] Melisa: maybe deleting the platforms or starting as plain planets then adding on it
+[03.06.22, 09:12:20] Chloe Azor: Did it work?
+[03.06.22, 09:12:37] Chloe Azor: Maybe🥴
+[03.06.22, 09:13:06] Melisa: Yes, thank you! :)
+[03.06.22, 09:13:29] Chloe Azor: Okay perfect! Feel free to change anythingg 🎉😊
+[03.06.22, 09:15:07] Melisa: I understood the issue why it moves upwards or downwards when we start the game :D
+‎[03.06.22, 09:15:53] Melisa: ‎image omitted
+[03.06.22, 09:16:05] Melisa: they shouldn't touch each other basically
+[03.06.22, 09:16:39] Chloe Azor: Ohhhhhhhhh
+[03.06.22, 09:46:28] Gaia Gragnolati: gaia.gragnolatikj@gmail.com
+[03.06.22, 09:46:56] Gaia Gragnolati: super :D
+[03.06.22, 09:47:21] Chloe Azor: I have sent it😊
+[03.06.22, 09:54:39] Chloe Azor: I have not been able to finish everything! I’m so sorry
+[03.06.22, 09:56:16] Melisa: It is fine, then we can complete that part till next meeting
+[03.06.22, 10:02:12] Chloe Azor: Okay cool! I see we’re busy with the collision now so we’re basically almost done😊💪🏼
+[04.06.22, 13:34:49] Melisa: Hey guys. Since we're meeting on Monday, we'll watch videos and take some notes till then right?
+[04.06.22, 13:36:18] Melisa: for the day 5 I mean? So we can finish day 5 on Monday and 6 on another day next week?
+[04.06.22, 13:37:59] Gaia Gragnolati: Sounds good
+[04.06.22, 13:38:32] Gaia Gragnolati: I ll be taking notes as well this time
+[04.06.22, 16:52:11] Melisa: Do you think we can finish everything, at least the game, before 20th?
+[04.06.22, 17:04:47] Gaia Gragnolati: Yes, i think next week we can have all the skeleton of game ready. Then we can start adding the additional features
+[04.06.22, 17:09:40] Melisa: Yes, I thought the same. The week after can be for additional fetures
+[04.06.22, 19:10:14] Gaia Gragnolati: I added my notes for day 5 on the Google doc (I tried to explain as much as possible)
+[04.06.22, 19:34:37] Melisa: Thsnk you so much!
+[04.06.22, 20:14:57] Chloe Azor: Thank youuuuu
+[05.06.22, 13:16:53] Melisa: Where are we meeting tomorrow? The mensa might be closed maybe?
+[05.06.22, 13:58:43] Gaia Gragnolati: Why you think is closed?
+[05.06.22, 13:59:10] Melisa: Isn’t Monday a holiday?
+[05.06.22, 13:59:45] Gaia Gragnolati: Oh really had no idea
+[05.06.22, 13:59:57] Gaia Gragnolati: Let s meet at my place :)
+[05.06.22, 14:00:54] Melisa: Thank you, it sounds nice :)
+[05.06.22, 14:04:27] Gaia Gragnolati: Süsterstraße 52
+[05.06.22, 15:42:15] Melisa: I don’t remember if I told you, I won’t be here on Wednesday because I need to renew my passport in Hannover so it’d nice if we can arrange the next meeting accordingly
+[05.06.22, 16:07:05] Gaia Gragnolati: ‎Gaia Gragnolati changed the group description
+[05.06.22, 16:06:46] Gaia Gragnolati: we did not arrange any meeting on wednesdays
+[05.06.22, 16:07:23] Gaia Gragnolati: I put the days and times in the group description
+[05.06.22, 16:29:35] Melisa: Ah okay, thanks!
+[05.06.22, 21:24:38] Chloe Azor: Hey guys! So sorry for the late notice! I was supposed to come back to Osnabruck today but I was very sick last night and decided to only come back Tuesday or so, could I possibly meet you guys online??
+[05.06.22, 21:32:31] Gaia Gragnolati: Yea sure! @491782002158 do you still want to come over or you prefer online?
+[05.06.22, 21:44:00] Melisa: Hey Chloe, gute Besserung!
+[05.06.22, 21:46:40] Melisa: Both are fine for me
+[05.06.22, 21:48:06] Gaia Gragnolati: Also for me
+[05.06.22, 21:50:16] Melisa: Maybe we could meet online for tomorrow and then in person?
+[05.06.22, 21:50:41] Gaia Gragnolati: Sure
+[06.06.22, 09:10:12] Melisa: Hey Gaia, we are on discord :)
+[06.06.22, 09:20:05] Gaia Gragnolati: Oh sorry guys I thought it was 9 30
+[06.06.22, 09:20:07] Gaia Gragnolati: My bad
+[06.06.22, 09:20:17] Gaia Gragnolati: I ll be there soon
+[06.06.22, 09:20:46] Melisa: It is totally fine :)
+‎[06.06.22, 12:01:05] Gaia Gragnolati: ‎<attached: 00000455-AUDIO-2022-06-06-12-01-05.opus>
+[06.06.22, 12:07:51] Chloe Azor: Okay cool😊😊.
+[06.06.22, 12:35:15] Melisa: Sure👌🏻
+[07.06.22, 13:19:56] Melisa: Hey. Can we reschedule meeting on Friday if possible?
+[07.06.22, 13:20:04] Melisa: like at 14:00pm?
+[07.06.22, 13:20:42] Gaia Gragnolati: Hey, I have a tutorial till 1345 on Friday
+[07.06.22, 13:21:09] Gaia Gragnolati: And then I have till 1530
+[07.06.22, 13:21:18] Gaia Gragnolati: Cause I ll work
+[07.06.22, 13:21:18] Melisa: I'll have my work meeting at 12 so if we cannot arrange it, I will join online then
+[07.06.22, 13:22:30] Melisa: then I may not attend our meeting in presence
+[07.06.22, 13:23:12] Gaia Gragnolati: That s fine, let s just meet online this week then. Let s keep it at 9:00 then?
+[07.06.22, 13:23:28] Melisa: yeah the time is okay this way
+[09.06.22, 09:08:39] Melisa: Hey guys. I'm almost done with the videos and also taking notes. However, I won't be able to watch the last one (the longest one) I guess. Can any of you watch it and take some detailed notes about it? If you have time of course
+[09.06.22, 09:09:07] Gaia Gragnolati: My notes are already in the doc
+[09.06.22, 09:09:30] Melisa: Cool thank you so much!
+[09.06.22, 09:10:16] Chloe Azor: Ahhh thank you so much! I will make notes on it 😊😊❤️
+[09.06.22, 09:10:49] Melisa: You are welcome! 💜🌻
+‎[09.06.22, 09:50:40] Melisa: 6. Add Graphics and Functionanalities.pdf • ‎2 pages ‎<attached: 00000472-6. Add Graphics and Functionanalities.pdf>
+[09.06.22, 17:55:15] Melisa: Are we meeting at 19:00 or 19:30?
+[09.06.22, 17:57:24] Chloe Azor: Could we possibly please do 7:30🙈
+[09.06.22, 17:57:43] Chloe Azor: I was extremely busy today and only have time now to go through todays content that we are doing🙈
+[09.06.22, 17:57:46] Chloe Azor: So sorry about that
+[09.06.22, 17:57:50] Melisa: That would be nice because I wanna eat something :D
+[09.06.22, 17:58:04] Melisa: No worries at all!
+[09.06.22, 17:58:12] Melisa: Me too, lots of stuff to do
+[09.06.22, 17:58:23] Chloe Azor: Okay perfect! See you guys at 7:30💪🏼🎉
+[09.06.22, 17:59:32] Chloe Azor: I just want to confirm? Do I still have to take notes on anything?
+[09.06.22, 18:00:17] Melisa: I think Gaia did and I also did till the last video
+[09.06.22, 18:00:35] Melisa: But not including that one since I had a class
+[09.06.22, 18:03:16] Chloe Azor: Okay perfect! Thank you so much! I will quickly watch the videos now
+[09.06.22, 19:33:19] Chloe Azor: I will be there now!
+‎[10.06.22, 15:54:31] Gaia Gragnolati: ‎<attached: 00000486-AUDIO-2022-06-10-15-54-31.opus>
+[10.06.22, 15:56:10] Melisa: I’ll see on Monday if I can go to the coding sessions
+‎[10.06.22, 15:56:24] Gaia Gragnolati: ‎<attached: 00000488-AUDIO-2022-06-10-15-56-24.opus>
+[10.06.22, 15:56:49] Melisa: We can do that
+[10.06.22, 15:56:59] Gaia Gragnolati: Could u meet in Westerberg at 10 though?
+[10.06.22, 15:57:25] Melisa: Yeah sure
+[10.06.22, 15:57:34] Gaia Gragnolati: Nice I m excited now to finally work together  in person 😛
+[10.06.22, 15:58:07] Melisa: You mean meeting earlier in Westerberg and dealing with the game then joining the coding support if we need help right?
+[10.06.22, 15:58:18] Gaia Gragnolati: Yep
+[10.06.22, 15:59:51] Melisa: Sounds like a good plan to me
+[10.06.22, 16:00:03] Melisa: I hope we all passed the bapy tasks
+[10.06.22, 16:00:15] Melisa: because they never said something about them, except the first one ..
+[10.06.22, 16:01:08] Gaia Gragnolati: oh you didnt get points for the homework you mean?
+[10.06.22, 16:01:32] Melisa: I mean do we now about the points?
+[10.06.22, 16:01:34] Melisa: know*
+[10.06.22, 16:01:46] Melisa: I think they don't grade them yet or at least don't share on StudIP
+[10.06.22, 16:02:30] Melisa: oh on the results section they graded some of them but not all
+[10.06.22, 16:05:09] Gaia Gragnolati: Yea there are the results in the vips
+[10.06.22, 16:05:28] Gaia Gragnolati: Ahh yea
+[10.06.22, 16:05:40] Gaia Gragnolati: Till week 6
+[10.06.22, 16:05:45] Melisa: so shitty like they charged some points just because we had a print statement
+[10.06.22, 16:05:55] Melisa: additional one I mean ..
+[10.06.22, 16:06:16] Gaia Gragnolati: Wtf that s weird
+[10.06.22, 16:06:35] Gaia Gragnolati: Oh bc the output will be different
+[10.06.22, 16:06:41] Gaia Gragnolati: So I guess makes sense
+[10.06.22, 16:06:53] Melisa: It shouldn't be a big deal even the task was a smaller one but anyway
+[10.06.22, 16:14:41] Chloe Azor: That can be nice😊😊
+[10.06.22, 16:15:09] Chloe Azor: I can meet at 10😊
+[10.06.22, 16:16:22] Chloe Azor: Okay perfect!!
+[10.06.22, 16:20:03] Gaia Gragnolati: Perfect! See u guys next week then !! :))
+[10.06.22, 16:20:19] Chloe Azor: Awesome! See youuu
+[10.06.22, 16:22:11] Melisa: See you then
+[10.06.22, 16:58:02] Melisa: I added a background and now designing the planets, it looks so cool!
+[10.06.22, 16:58:23] Melisa: I'll send screenshots to you soon!
+‎[10.06.22, 17:26:05] Melisa: 2022-06-10 17-24-52.mkv ‎<attached: 00000520-2022-06-10 17-24-52.mkv>
+[10.06.22, 17:26:15] Melisa: I recorded a video
+‎[10.06.22, 17:31:35] Melisa: ‎image omitted
+‎[10.06.22, 17:31:35] Melisa: ‎image omitted
+[10.06.22, 19:00:36] Gaia Gragnolati: BEAUTIFUL🤩
+‎[10.06.22, 19:02:25] Gaia Gragnolati: ‎<attached: 00000525-AUDIO-2022-06-10-19-02-25.opus>
+[10.06.22, 19:03:38] Melisa: The background seems soo nice and while playing it looks like shining/moving!
+[10.06.22, 19:04:11] Gaia Gragnolati: I really love it, is perfect
+[10.06.22, 19:04:18] Melisa: Thank you so much, I’ll look at the video tomorrow if it is fine
+[10.06.22, 19:05:15] Gaia Gragnolati: Ofc we ll do those things on Monday anyways
+[10.06.22, 19:06:10] Melisa: Sure, it'd be nice to have an idea beforehand:)
+‎[10.06.22, 19:06:30] Gaia Gragnolati: ‎<attached: 00000531-AUDIO-2022-06-10-19-06-30.opus>
+[10.06.22, 19:06:26] Melisa: I wanted to comment on your text on google docs but it disappeared sorry
+[10.06.22, 19:06:34] Melisa: fur the bullet, I can try to have a look at tomorrow maybe
+[10.06.22, 19:07:48] Gaia Gragnolati: which one=
+[10.06.22, 19:08:02] Melisa: The one you wrote about the bullets
+[10.06.22, 19:08:14] Melisa: I said bullet asset needs to be added
+[10.06.22, 19:08:19] Gaia Gragnolati: ahh yea sure, no stress
+[10.06.22, 19:08:27] Melisa: I’d suggest dead pizza for the first level
+[10.06.22, 19:09:12] Gaia Gragnolati: sounds good, but why should have different bullets for different levels?
+[10.06.22, 19:10:08] Melisa: We can use the same it is also fine
+[10.06.22, 19:10:58] Gaia Gragnolati: oki, we ll see later on. But dead pizza sounds great ahah
+[10.06.22, 19:11:14] Melisa: Yesss
+[10.06.22, 19:11:28] Melisa: Also having 3 levels is better than 4 imo as you said on google docs
+[10.06.22, 19:25:50] Gaia Gragnolati: also was thinking to replace the checkpoint asset with an object, cause we have to many characters in the scene maybe
+[10.06.22, 19:29:49] Melisa: That might be also cool
+[10.06.22, 20:20:47] Melisa: Out of topic but do you know the full title of the C++ course?
+[10.06.22, 20:22:52] Gaia Gragnolati: Something like Einfurung  in die Algorithmen und Daten Strukturen
+[10.06.22, 20:24:18] Melisa: I couldn't find int on StudIP
+[10.06.22, 20:24:24] Melisa: don't know if they've published that already
+[10.06.22, 20:24:28] Melisa: it*
+[10.06.22, 20:26:38] Gaia Gragnolati: Try to go to the first page--> add course-->select right semester--> bachelor
+[10.06.22, 21:59:09] Melisa: I’ll try it out again, thank you :)
+[11.06.22, 05:51:59] Chloe Azor: That looks so cool! Thank you so so much
+[11.06.22, 06:28:39] Chloe Azor: I have not been able to find it yet too🙈🙈
+[11.06.22, 06:29:01] Chloe Azor: That would also work! We could maybe look for a flag??
+[12.06.22, 16:26:35] Melisa: Hey guys. We are meeting at 10:00 am in Westerberg tomorrow, right?
+[12.06.22, 16:42:44] Gaia Gragnolati: Yep, we can meet at the Frosch
+[13.06.22, 09:33:24] Chloe Azor: Hey guys! Would you like a chocolate croissant??
+[13.06.22, 09:33:32] Chloe Azor: I wanted to stop at the bakery
+[13.06.22, 09:35:54] Melisa: Thank you Chloe, I think I don’t need it :)
+[13.06.22, 09:36:01] Melisa: Otherwise I’ll be 100 kg hahahha
+[13.06.22, 09:37:29] Chloe Azor: Hahaha okay cool ! I’m on my way will see you guys now😊
+[13.06.22, 09:37:48] Melisa: Me too, see you soon!
+[13.06.22, 09:40:58] Gaia Gragnolati: Oh that's so sweet
+[13.06.22, 09:41:09] Gaia Gragnolati: I m fine tho
+[13.06.22, 09:41:15] Gaia Gragnolati: Thank you:)
+[13.06.22, 09:58:55] Gaia Gragnolati: I m omw
+[13.06.22, 10:02:19] Chloe Azor: We’re here inside😊
+[13.06.22, 10:11:30] Melisa: https://prod.liveshare.vsengsaas.visualstudio.com/join?9DD57BABB81F816A9E28A0C71A7746B60235
+[13.06.22, 14:19:52] Melisa: https://prod.liveshare.vsengsaas.visualstudio.com/join?5B98A652331CE1600B842087EE01B96AB284
+[13.06.22, 15:39:07] Melisa: https://prod.liveshare.vsengsaas.visualstudio.com/join?44A212E11911B2938F33C558A5FD19DB3872
+[13.06.22, 17:29:47] Chloe Azor: Hey guys! So sorry that I had to leave so early!
+[13.06.22, 17:29:51] Chloe Azor: Did you guys come right?
+[13.06.22, 19:07:47] Gaia Gragnolati: ?
+[13.06.22, 19:08:13] Chloe Azor: With the platform and the alien moving together??
+‎[13.06.22, 19:14:16] Gaia Gragnolati: ‎<attached: 00000576-AUDIO-2022-06-13-19-14-16.opus>
+[13.06.22, 19:31:52] Chloe Azor: Ah that’s so cool! What was the problem???
+[13.06.22, 19:32:01] Chloe Azor: I’m there until Sunday🥺
+[13.06.22, 19:32:49] Chloe Azor: I’m sorry that this is not a unity question but do you maybe know how I could get the commas when trying to do the sudoku task, where you have to print the array
+‎[13.06.22, 19:33:16] Chloe Azor: ‎<attached: 00000580-PHOTO-2022-06-13-19-33-16.jpg>
+[13.06.22, 19:33:26] Gaia Gragnolati: no idea, we werent able to do print the grid properly
+‎[13.06.22, 19:33:37] Chloe Azor: ‎<attached: 00000582-PHOTO-2022-06-13-19-33-37.jpg>
+[13.06.22, 19:33:48] Chloe Azor: So you think I can leave it like that🤷🏼‍♀️
+[13.06.22, 19:34:08] Gaia Gragnolati: we left it with the commas
+[13.06.22, 19:34:47] Chloe Azor: How did you get the commas😬😬😬🙈
+[13.06.22, 19:46:03] Gaia Gragnolati: just printing the rows
+[13.06.22, 19:46:06] Gaia Gragnolati: no array
+[13.06.22, 19:55:57] Gaia Gragnolati: Btw the tutor told us to use Plastic SCM, so when u have time watch the video in courseware  under week 7 (is very short)
+[13.06.22, 19:56:10] Gaia Gragnolati: I just watched it, should be easy to use
+[13.06.22, 20:06:14] Melisa: I am sorry, I did not have a look at the topics of the last week even ..
+[13.06.22, 21:09:16] Chloe Azor: Definitely will go thank you!
+[13.06.22, 21:09:23] Chloe Azor: Okay cool thank you!!
+[14.06.22, 08:24:43] Melisa: In the video, she didn't tell how we can put our project into plastic scm right?
+[14.06.22, 08:30:45] Gaia Gragnolati: I don't remember
+[14.06.22, 08:31:02] Melisa: They don't tell that ..
+[14.06.22, 08:31:25] Gaia Gragnolati: Then try with youtube
+[14.06.22, 08:31:28] Melisa: I am trying to set it up
+[14.06.22, 08:41:54] Melisa: You can send me your emails that you used to register for Unity
+[14.06.22, 08:41:58] Melisa: I will try to add you to the cloud
+[14.06.22, 08:43:57] Melisa: The manual in case we need it
+[14.06.22, 08:49:06] Gaia Gragnolati: ggragnolati@uni-osnabreuck.de
+[14.06.22, 08:50:01] Melisa: I added you as an admin 👍🏻
+[14.06.22, 08:53:11] Gaia Gragnolati: Thank youu
+[14.06.22, 08:54:11] Gaia Gragnolati: What I didn't get is if can use this plastic scm to work together on unity (?)
+[14.06.22, 08:55:04] Melisa: Yes, it is for working together on Unity and then committing our changes
+[14.06.22, 08:55:57] Gaia Gragnolati: Ok cool, I ll try to watch some tutorials before Wednesday
+[14.06.22, 08:56:09] Melisa: Perfect 👌🏻
+[14.06.22, 08:56:22] Gaia Gragnolati: Or maybe u can show me when we meet
+[14.06.22, 08:56:38] Gaia Gragnolati: Idk yet I got time😅
+[14.06.22, 08:58:03] Melisa: I can try till then :D
+[14.06.22, 10:33:05] Melisa: ‎You deleted this message.
+[14.06.22, 10:33:37] Melisa: basically what she talks about in the second half of the video on StudIP. Maybe you can move the background a little and try to save it so we can see if it is working properly
+[14.06.22, 10:35:04] Gaia Gragnolati: Yep, i ll try tonight
+[14.06.22, 10:35:19] Melisa: Thanks
+‎[14.06.22, 10:47:22] Melisa: ‎<attached: 00000616-PHOTO-2022-06-14-10-47-22.jpg>
+[14.06.22, 10:47:49] Melisa: I think I kinda figured it out the whole process. If you have any questions or problems in the installation part, feel free to ask 🌻
+[14.06.22, 20:06:34] Gaia Gragnolati: how to we get access to the workspace?
+[14.06.22, 20:07:39] Gaia Gragnolati: am I supposed to do something on the app i downloaded, on unity or on the web page?
+[14.06.22, 20:20:35] Melisa: Did you download it?
+[14.06.22, 20:21:14] Gaia Gragnolati: Yep
+[14.06.22, 20:21:32] Melisa: Open the application and then click on repositories and workspaces
+[14.06.22, 20:21:38] Melisa: on the left
+[14.06.22, 20:22:23] Melisa: then right click to the project and create a workspace
+[14.06.22, 20:26:42] Melisa: I am also available if you wanna meet on discord
+[14.06.22, 20:29:45] Melisa: But I don't know if you can see the repository there when you follow the stepts on the picture I shared. If not, we have to find a way. Even asking on group is way faster
+[14.06.22, 20:36:40] Gaia Gragnolati: I ll try later
+[14.06.22, 20:36:44] Gaia Gragnolati: I m not home now
+[14.06.22, 20:37:13] Chloe Azor: I have finally gotten home!! I will watch the videos now and download the stuff and ya!😊
+‎[14.06.22, 20:40:21] Melisa: ‎image omitted
+[14.06.22, 20:40:43] Chloe Azor: Thank youuuu!
+[14.06.22, 21:03:08] Melisa: You are welcome! I am trying to fix the issue when planets and enemies interfere with each other
+[14.06.22, 21:03:16] Melisa: also the player doesn't die after 8 hits in the second scene
+[14.06.22, 21:45:10] Melisa: https://assetstore.unity.com/packages/2d/environments/pixel-potions-with-animation-118801
+‎[14.06.22, 21:58:32] Gaia Gragnolati: ‎<attached: 00000635-AUDIO-2022-06-14-21-58-32.opus>
+[14.06.22, 22:05:43] Melisa: Yeah sure we can try it out
+[14.06.22, 22:06:59] Melisa: I added some stuff that needs to be fixed on google docs
+[14.06.22, 22:11:33] Gaia Gragnolati: Okii
+[14.06.22, 22:12:07] Gaia Gragnolati: Let s bring headphones tomorrow so we can connect with Chloe on Discord
+[14.06.22, 22:12:56] Melisa: Mine is huge so I am not sure if I can put it on my bag, I don't have the small ones but can try
+[14.06.22, 22:13:07] Melisa: also I'd suggest to change the castle icon, it looks a bit odd to me
+[14.06.22, 22:21:52] Gaia Gragnolati: Yea better a diamond or something similar
+[14.06.22, 22:31:07] Gaia Gragnolati: Oh, I only have one pair :/
+‎[14.06.22, 23:07:21] Gaia Gragnolati: ‎<attached: 00000644-PHOTO-2022-06-14-23-07-21.jpg>
+[14.06.22, 23:14:57] Gaia Gragnolati: ok nvm, i had to make up a new repositiory apparently to access the main page
+[14.06.22, 23:22:34] Gaia Gragnolati: i dont think i have access to the project though :(
+[14.06.22, 23:22:41] Gaia Gragnolati: we ll see tomorrow
+[15.06.22, 07:14:38] Chloe Azor: Hey Guys! Are we meeting today??
+[15.06.22, 08:13:39] Melisa: We should figure this out. I also don’t know yet
+[15.06.22, 08:13:44] Melisa: Yes
+[15.06.22, 08:14:57] Melisa: Can you maybe ask this on the group? So we can speed up even
+[15.06.22, 08:22:59] Gaia Gragnolati: I just read the things on the group
+[15.06.22, 08:23:11] Gaia Gragnolati: Are you sure u didn't make it private?
+[15.06.22, 08:23:24] Melisa: I didn’t choose anyting related to private
+[15.06.22, 08:23:41] Melisa: I mean we should ask this because they don’t explain it in the video
+[15.06.22, 08:23:47] Gaia Gragnolati: Maybe that is why then
+[15.06.22, 08:23:55] Gaia Gragnolati: Have u looked at YouTube videos
+[15.06.22, 08:24:05] Melisa: I did
+[15.06.22, 08:25:19] Gaia Gragnolati: Maybe try to redo it?
+[15.06.22, 08:25:29] Melisa: It is working fine for me
+[15.06.22, 08:25:40] Melisa: There is no issue yet
+[15.06.22, 08:25:48] Gaia Gragnolati: But does it say is it shared with someone?
+[15.06.22, 08:25:59] Gaia Gragnolati: Cause that s the problem
+[15.06.22, 08:25:59] Melisa: I can see your name on the website
+[15.06.22, 08:26:14] Gaia Gragnolati: Did u write the email right maybe
+[15.06.22, 08:26:27] Melisa: We just need to learn how you can access it because they don’t teach that in the video.
+[15.06.22, 08:26:45] Melisa: I will check it out again but I am sure I did
+[15.06.22, 08:27:23] Gaia Gragnolati: I saw a yt video bout it, but the project cloud just doesn't come up in my app
+[15.06.22, 08:27:31] Melisa: There should be some steps that you need to follow I believe
+[15.06.22, 08:28:28] Gaia Gragnolati: This i solved, I just created my own repository to access the app
+[15.06.22, 08:28:59] Melisa: Maybe you need to enter the same titles as I did I am not sure about thay
+[15.06.22, 08:29:00] Melisa: That
+[15.06.22, 08:29:14] Melisa: There should be extra stepts so we need to ask
+‎[15.06.22, 08:32:37] Gaia Gragnolati: ‎<attached: 00000674-AUDIO-2022-06-15-08-32-37.opus>
+[15.06.22, 08:34:53] Melisa: That's why I am saying you just download an app and we need to follow some stepts to reach the workspace this is how I feel
+[15.06.22, 08:35:11] Melisa: I won't be able to stay for so long today so it would be nice to speed up maybe
+[15.06.22, 08:35:19] Melisa: I can stay till 3 pm
+[15.06.22, 08:36:38] Chloe Azor: What time are we meeting today?😊
+[15.06.22, 08:37:07] Melisa: At 12:00 in mensa right?
+[15.06.22, 08:37:37] Chloe Azor: I’ll meet you guys online then after you have lunch? It that’s okay?
+[15.06.22, 08:37:55] Gaia Gragnolati: So you prefer Schloss or Frosch?
+[15.06.22, 08:38:09] Melisa: Schloss is better because I need to go home for my German class
+[15.06.22, 08:38:15] Gaia Gragnolati: Ok
+[15.06.22, 08:38:34] Gaia Gragnolati: I can be thwre around 1215 , but first need to have lunch at mensa
+[15.06.22, 08:39:03] Gaia Gragnolati: I don't have time to look at this now, I have a meeting at 9 till 12 at the Frosch
+[15.06.22, 08:39:22] Gaia Gragnolati: So maybe at 1245 with Chloe?
+[15.06.22, 08:39:37] Chloe Azor: Thank you so much! Perfect
+[15.06.22, 08:40:35] Melisa: so I'll be there at around 12:15 then if it is fine
+‎[15.06.22, 08:57:42] Melisa: ‎image omitted
+[15.06.22, 08:57:54] Melisa: https://youtu.be/AKU7Y-xkmTw
+[15.06.22, 08:59:02] Melisa: I think you typed your email wrong Gaia
+‎[15.06.22, 08:59:30] Melisa: ‎image omitted
+[15.06.22, 09:05:38] Gaia Gragnolati: I know they don't show it
+[15.06.22, 09:11:43] Gaia Gragnolati: Now I received it
+[15.06.22, 09:11:50] Gaia Gragnolati: Niceee
+[15.06.22, 09:13:12] Gaia Gragnolati: Ah sorry was automatically filled
+[15.06.22, 09:13:38] Melisa: Cool!
+[15.06.22, 10:43:12] Melisa: I may be there at around 12:30 or so. I am dealing with some job applications
+[15.06.22, 10:57:07] Gaia Gragnolati: Oh maybe I ll eat at the Frosch then
+[15.06.22, 10:57:21] Gaia Gragnolati: In Westerberg*
+[15.06.22, 10:57:34] Gaia Gragnolati: Unless u also want to eat at 1230 :)
+[15.06.22, 11:06:00] Gaia Gragnolati: Ok nvm i ll come eat at the Schloss
+[15.06.22, 11:10:15] Melisa: I need to eat at home because didn’t do any breakfast
+[15.06.22, 11:10:28] Melisa: I can drink smth there
+[15.06.22, 11:39:47] Chloe Azor: cazor@uni-osnabrueck.de
+[15.06.22, 11:48:37] Chloe Azor: I have downloaded everything and I think it is working😊
+[15.06.22, 11:55:57] Melisa: I need to add you first
+[15.06.22, 11:56:12] Melisa: But I am getting ready to leavw so I can do it when we meet up
+[15.06.22, 11:56:24] Chloe Azor: All good thank you
+[15.06.22, 12:04:45] Gaia Gragnolati: Ok so I ll eat in Westerberg now , see you there at 12 40
+[15.06.22, 12:07:32] Gaia Gragnolati: Let me know if u come later though, so I will not rush
+[15.06.22, 12:23:03] Melisa: I am going to the bus stop now
+[15.06.22, 12:25:09] Gaia Gragnolati: Perfect, I m on my way now
+[15.06.22, 12:31:44] Melisa: Me too 👌🏻
+[15.06.22, 12:37:20] Gaia Gragnolati: I m here
+‎[15.06.22, 12:42:48] Gaia Gragnolati: ‎<attached: 00000716-PHOTO-2022-06-15-12-42-48.jpg>
+[15.06.22, 12:49:38] Chloe Azor: Lemme know when you guys are ready and I can join 😊
+[15.06.22, 12:51:39] Melisa: Are u in cafeteria or mensa?
+[15.06.22, 12:51:50] Gaia Gragnolati: Cafeteria
+[15.06.22, 12:57:39] Chloe Azor: Am I meeting you guys on discord?? Or what would be better
+[15.06.22, 13:03:09] Gaia Gragnolati: We re coming soon on discord
+[15.06.22, 13:08:46] Chloe Azor: Okay cool
+[15.06.22, 13:31:51] Chloe Azor: Melissa🙈could you maybe please add me to the project when you guys maybe have time
+[15.06.22, 13:32:20] Chloe Azor: Then I can see of the plastic SCM is working properly for me🙈
+[15.06.22, 13:35:58] Gaia Gragnolati: We are on discord now
+[15.06.22, 13:36:44] Melisa: Melisa_Altinyelek@cloud
+‎[15.06.22, 13:56:30] Melisa: ‎image omitted
+[15.06.22, 13:57:17] Melisa: https://unity3d.com/de/get-unity/download/archive
+[15.06.22, 15:31:41] Chloe Azor: Hey guys! Is there something I can do to add to the code or anything? I feel so bad because it feels like you guys are doing a lot of the work and I just don’t want you guys to think that I am taking advantage of that or anything.
+[15.06.22, 15:51:49] Gaia Gragnolati: @491782002158  fixed it 🤩
+[15.06.22, 15:52:28] Gaia Gragnolati: no worries, we dont think that!!! Let s meet tonight around 745? :)
+[15.06.22, 15:58:54] Chloe Azor: Okay perfect! I won’t be able to stay too long because we’re having dinner for my brothers birthday🙈
+[15.06.22, 15:59:11] Chloe Azor: But I will definitely be there😊
+[15.06.22, 15:59:32] Chloe Azor: Thank you so much for not thinking that
+[15.06.22, 16:58:04] Melisa: No worries, we don’t think like that 🌻
+[15.06.22, 16:58:24] Melisa: Did you fix the issue? :D
+[15.06.22, 16:58:39] Melisa: The lives text
+[15.06.22, 16:58:46] Gaia Gragnolati: Melisa, so i got the mistake but the problem is still there cause we need to apply different script for the scenes
+[15.06.22, 16:58:59] Gaia Gragnolati: or find a way to metion the scenes in one script
+[15.06.22, 16:59:10] Gaia Gragnolati: seems quite complicated, not sure how to do it yet
+‎[15.06.22, 17:00:29] Gaia Gragnolati: ‎<attached: 00000741-AUDIO-2022-06-15-17-00-29.opus>
+[15.06.22, 17:02:22] Melisa: I don’t know it yet either. I am in the lecture now
+[15.06.22, 17:02:23] Gaia Gragnolati: but at least i finished the animation of the platforms
+[15.06.22, 17:03:55] Melisa: I also don’t know if we need different scripts for different scrnes
+[15.06.22, 17:03:58] Melisa: Scenes*
+[15.06.22, 17:04:03] Melisa: for everything I mean
+[15.06.22, 17:07:04] Melisa: But for the enemies, we tried to have different scripts but somehow didn’t work out. So if we use the masked guys in the second scene, which will be different prefabs, maybe the enemy scripts won’t interfere anymore
+[15.06.22, 17:13:17] Gaia Gragnolati: I fixed it
+[15.06.22, 17:13:19] Gaia Gragnolati: officiallyt
+[15.06.22, 17:13:26] Gaia Gragnolati: i wanna cry
+[15.06.22, 17:13:27] Gaia Gragnolati: ahhaha
+[15.06.22, 17:13:31] Gaia Gragnolati: of joy
+[15.06.22, 17:13:42] Chloe Azor: 😱😱😱😱😱😱😱😱😱😱.
+[15.06.22, 17:13:52] Chloe Azor: That’s so awesome! Thank you so much!
+[15.06.22, 17:13:59] Gaia Gragnolati: I ll explain to you guys later, i m going to take a break at the gym now. See you later :D
+[15.06.22, 17:17:31] Melisa: Thank you so much Gaia!
+[15.06.22, 17:17:42] Melisa: Can we meet at 20:00 if it is fine?
+[15.06.22, 17:25:26] Gaia Gragnolati: Yea it s also better for me 20
+[15.06.22, 17:26:50] Melisa: Perfekt 🌻
+[15.06.22, 19:11:24] Gaia Gragnolati: I think I can make it for 2030, or i can join the meeting while cooking and can talk
+[15.06.22, 19:13:13] Melisa: Let’s make it 20:30 then
+[15.06.22, 19:17:23] Gaia Gragnolati: Thank uu☺️
+[15.06.22, 19:28:46] Melisa: No worries 🌻
+‎[15.06.22, 20:31:11] Melisa: ‎image omitted
+[16.06.22, 16:12:47] Gaia Gragnolati: guys, i have added the potion and added a script so that when the player collides lives augments
+[16.06.22, 16:13:24] Gaia Gragnolati: we need to fix the vertical platfrom somehow, when i jump then i cannot land on it. Or also when i stand on it while shooting I fall down
+[16.06.22, 17:08:50] Melisa: Okay, we’ll figure that out. Can we meet at 20:00 again?
+[16.06.22, 17:23:37] Gaia Gragnolati: Yep that s fine for me
+[16.06.22, 18:52:57] Chloe Azor: 👍🏻👍🏻
+[16.06.22, 18:53:03] Chloe Azor: I might be 10 min late
+[16.06.22, 19:31:27] Gaia Gragnolati: Guys i got too excited, i also created an health bar
+[16.06.22, 19:32:09] Gaia Gragnolati: I ll wait for u to commit it, cause we need to delete all the unnecessary text things in the scripts
+[16.06.22, 21:30:17] Chloe Azor: The desktop version is not working at all🙄
+‎[16.06.22, 21:31:21] Chloe Azor: ‎image omitted
+[16.06.22, 22:12:17] Gaia Gragnolati: @491782002158 just one last thing, did you have that problem also in the Jumpignon? if not, maybe u can have a look on what s different there :)
+[16.06.22, 22:16:27] Melisa: I have it there as well :/
+[16.06.22, 22:29:47] Gaia Gragnolati: did you check in your changes? cause now I have the same problem
+[16.06.22, 22:30:20] Melisa: No I did not actually..
+[16.06.22, 22:30:28] Melisa: Just saved on my pc instead
+[16.06.22, 22:30:51] Gaia Gragnolati: that s strange, cause my bar is also in another position
+[16.06.22, 23:20:44] Gaia Gragnolati: i fixed it guys
+[16.06.22, 23:21:39] Gaia Gragnolati: 🎊
+[16.06.22, 23:22:17] Melisa: Oh what was the exact issue?
+[16.06.22, 23:22:46] Melisa: And can you please commit it right after just to make sure. I hope it is also fixed for us then
+[17.06.22, 00:07:36] Gaia Gragnolati: I ll show u tomorrow
+[17.06.22, 07:48:40] Chloe Azor: Good morning guysss!!
+‎[17.06.22, 07:49:56] Chloe Azor: ‎<attached: 00000787-PHOTO-2022-06-17-07-49-56.jpg>
+[17.06.22, 08:12:53] Melisa: Good morning. Looks cool!
+[17.06.22, 08:17:14] Chloe Azor: I’m also writing notes on how to rotate the planet😊. It’s in one of the google doc files
+‎[17.06.22, 08:39:53] Chloe Azor: ‎<attached: 00000790-PHOTO-2022-06-17-08-39-53.jpg>
+[17.06.22, 08:40:52] Melisa: Yeah I also noted smth like that, like start button at the beginning
+[17.06.22, 08:41:00] Melisa: Are we meeting at 9 or 9:30?
+[17.06.22, 08:42:18] Melisa: 9:15 or 9:30 would be better for me
+[17.06.22, 08:57:01] Chloe Azor: I don’t mind. I remember yesterday saying 9:30 but I will be ready from now😊
+[17.06.22, 09:10:01] Chloe Azor: I have started watching a video on this… it doesn’t look too difficult. We just have to create a new scene😊
+[17.06.22, 09:10:45] Chloe Azor: I have added a link inside of our google doc
+[17.06.22, 09:11:55] Gaia Gragnolati: That s a nice idea
+‎[17.06.22, 09:35:20] Gaia Gragnolati: ‎image omitted
+‎[17.06.22, 09:46:17] Chloe Azor: ‎image omitted
+‎[17.06.22, 10:40:00] Gaia Gragnolati: ‎image omitted
+‎[17.06.22, 11:12:28] Chloe Azor: ‎<attached: 00000801-AUDIO-2022-06-17-11-12-28.opus>
+[17.06.22, 12:32:47] Gaia Gragnolati: Everything good guys?
+[17.06.22, 12:33:33] Chloe Azor: Yepp we didn’t stay on the call? But I am working on adding the wizard? If that is okay??
+[17.06.22, 12:35:07] Gaia Gragnolati: Okii, I can make the potion thingy for making the alien smaller before Sunday. Did u guys choose an asset for that?
+[17.06.22, 12:35:26] Chloe Azor: We thought maybe the magic egg?
+[17.06.22, 12:35:29] Chloe Azor: What do you think
+[17.06.22, 12:35:44] Gaia Gragnolati: Ah right,
+[17.06.22, 12:35:47] Gaia Gragnolati: Sounds good
+[17.06.22, 12:36:55] Gaia Gragnolati: Let s just all watch the video about the rotation u linked before sunday? And i think we re good
+[17.06.22, 12:38:29] Melisa: I am also adding some assets and then will continue later on
+[17.06.22, 12:39:05] Melisa: I committed them
+[17.06.22, 12:39:15] Melisa: and will keep committing as long as I am adding stuff
+[17.06.22, 12:41:11] Gaia Gragnolati: Ok
+[17.06.22, 12:41:21] Gaia Gragnolati: I ll do the same then
+[17.06.22, 12:42:08] Chloe Azor: I don’t want to mess up anything with the wizard… so maybe I will first try it on my game before commuting the changes? Or what do you guys think??
+[17.06.22, 12:43:00] Gaia Gragnolati: Yea of course, always try in ur unity if it works
+[17.06.22, 12:43:14] Chloe Azor: Okay perfect 😊
+[17.06.22, 12:44:10] Melisa: Yes, I think so. We need to fix the newly added platforms and the speed of the planets right?
+[17.06.22, 12:44:13] Melisa: It is hard to land on them:D
+[17.06.22, 12:44:55] Gaia Gragnolati: Are the animations working on ur unity?
+[17.06.22, 12:45:21] Melisa: yes they are moving but moving planets are really fast
+[17.06.22, 12:45:28] Melisa: and I cannot stand on the normal platforms, I just fall through
+[17.06.22, 12:45:57] Gaia Gragnolati: Yea, I didn't add any script yet
+[17.06.22, 12:46:17] Gaia Gragnolati: Not even on the platforms I did though, weird that they work
+[17.06.22, 12:47:01] Gaia Gragnolati: My planets are not fast though
+[17.06.22, 12:48:08] Melisa: Mine are quite fast hahaha
+[17.06.22, 12:48:35] Gaia Gragnolati: Mmh strange, I ll finalize everything and commit the changes later
+[17.06.22, 13:05:58] Melisa: Perfekt. I added the first 12 planets and already committed them
+[17.06.22, 13:06:05] Melisa: You can update your own workspace:)
+‎[17.06.22, 17:20:00] Gaia Gragnolati: ‎<attached: 00000830-AUDIO-2022-06-17-17-20-00.opus>
+[18.06.22, 10:12:49] Melisa: You mean we cannot stand on tje platform like in the beginning?
+[18.06.22, 10:13:15] Melisa: I think she added an extra box collider and made all the values the same. I can try to have a look at it today
+‎[18.06.22, 11:45:12] Gaia Gragnolati: ‎<attached: 00000833-AUDIO-2022-06-18-11-45-12.opus>
+[18.06.22, 11:55:28] Melisa: Okay. I can meet online tomorrow if it is fine for you guys
+[18.06.22, 11:56:49] Chloe Azor: I can also meet online tomorrow 😊
+[18.06.22, 11:57:17] Chloe Azor: We could try looking for anothet video where they don’t use an animation for the platform the move?
+[18.06.22, 13:01:44] Gaia Gragnolati: I fixed the second platform 🎊
+[18.06.22, 13:01:53] Gaia Gragnolati: i just checked in  the changes
+[18.06.22, 13:02:01] Gaia Gragnolati: now i m gonna slow down the planets
+[18.06.22, 13:03:15] Melisa: Thanks!
+[18.06.22, 13:05:24] Gaia Gragnolati: np :)
+[18.06.22, 13:06:32] Gaia Gragnolati: on which planet do u guys want to put the egg? I have a bit of time to do that now
+[18.06.22, 13:07:13] Chloe Azor: I would say not too far up… maybe more towards beginning / middle
+[18.06.22, 13:07:22] Chloe Azor: 😱. Thank you so much!
+‎[18.06.22, 14:11:14] Gaia Gragnolati: ‎<attached: 00000845-AUDIO-2022-06-18-14-11-14.opus>
+[18.06.22, 14:16:05] Melisa: So we can basically use shrinking function (but we do not know how to do it yet I guess) by just creating a new tag for level 3 player and referencing it in the existing player script right?
+[18.06.22, 14:17:11] Melisa: I can find a different potion for level 3
+[18.06.22, 14:17:53] Melisa: what does the pink potion in level 3 do? Does it decrese or increase lives?
+[18.06.22, 14:19:05] Gaia Gragnolati: I think I found a way
+[18.06.22, 14:19:42] Gaia Gragnolati: But first i m testing if we can use a unique script for the player and one for the enemies for all levels
+[18.06.22, 14:20:08] Melisa: okay 👍🏻
+[18.06.22, 14:21:19] Melisa: https://assetstore.unity.com/packages/3d/props/potions-115115
+[18.06.22, 14:21:31] Melisa: don't they look so cool? They are all neon!
+[18.06.22, 14:23:19] Melisa: https://assetstore.unity.com/packages/2d/environments/pixel-potions-with-animation-118801 these are also nice. I'll try them out now
+[18.06.22, 14:36:52] Gaia Gragnolati: Ok so apparently we can have a unique script for the player, but not for the enemies. Should i commit ? (Player Script for second level removed? And added functions to player script that we used for level 1) U might have to re attached some things but that s it
+[18.06.22, 14:37:28] Gaia Gragnolati: really cool, but they are not pixelated :/
+[18.06.22, 14:37:33] Melisa: Shall we do it tomorrow or now?
+[18.06.22, 14:37:38] Melisa: I downloaded a new package
+[18.06.22, 14:37:53] Gaia Gragnolati: these ones are, we can use thesee :D
+[18.06.22, 14:38:01] Melisa: and committed it, you can see new potion in level 3. Not it is pixelated
+[18.06.22, 14:38:14] Gaia Gragnolati: that s why i am asking, as u guys prefer
+‎[18.06.22, 14:38:27] Melisa: ‎<attached: 00000862-PHOTO-2022-06-18-14-38-27.jpg>
+[18.06.22, 14:39:06] Gaia Gragnolati: nice
+[18.06.22, 14:39:07] Melisa: Just not sure if we need to attach lots of things
+[18.06.22, 14:39:22] Gaia Gragnolati: no it s very fasst
+[18.06.22, 14:39:31] Gaia Gragnolati: and is much better to have only one player script
+[18.06.22, 14:39:51] Melisa: Then you may try if you want. I am also working on it now so I can see if it is working fine
+[18.06.22, 14:39:53] Gaia Gragnolati: otherwise we need to create 3 in total, also for level 3. doesnt make sense
+[18.06.22, 14:40:01] Melisa: Yes, I feel the same
+[18.06.22, 14:40:26] Gaia Gragnolati: if u want to have a brief meeting to check it on my unity then i can commit
+[18.06.22, 14:41:04] Melisa: Yeah sure. We can definitely do that
+[18.06.22, 14:41:18] Gaia Gragnolati: at 15 ?
+[18.06.22, 14:41:29] Melisa: Sure :)
+[18.06.22, 14:44:46] Gaia Gragnolati: if u want we create already an enemy script for level 3 together too
+[18.06.22, 14:49:39] Gaia Gragnolati: i only have 30 minutes tho
+[18.06.22, 14:50:59] Melisa: We can do that. I also have kinda limited time today
+[18.06.22, 14:57:52] Melisa: I also wanna have reverse keyboard functions on level 3. I can do some research about it tomorrow
+[18.06.22, 14:58:15] Melisa: like collecting a certain item and then a and d switches :D
+[18.06.22, 15:02:39] Gaia Gragnolati: Coming
+[19.06.22, 11:11:15] Melisa: Hey guys. When are we meeting?
+[19.06.22, 11:11:26] Melisa: What about at 12:30?
+[19.06.22, 11:13:00] Gaia Gragnolati: Morning, turns out I have to work today as well. So I really have lil time. I can meet at 13 and need to leave at 14
+[19.06.22, 11:13:59] Gaia Gragnolati: Also didn't yet figure out how to shrinl the character :/
+[19.06.22, 11:16:45] Melisa: 13 is also fine for me. I also need to figure out how we can reverse the keys :/
+[19.06.22, 11:18:11] Chloe Azor: Hey guys! I can definitely also meet at 13. My whole family has covid and I’m also not feeling the best so unfortunately I’m really sorry but I haven’t been able to work on the game
+[19.06.22, 11:19:09] Melisa: I am so sorry to hear that. I wish you all a speedy recovery. I also had it in the post months which was really hard for me, definitely can understand that
+[19.06.22, 11:19:36] Chloe Azor: I might’ve found something to resize the object
+‎[19.06.22, 11:19:55] Chloe Azor: ‎<attached: 00000888-PHOTO-2022-06-19-11-19-55.jpg>
+[19.06.22, 11:20:01] Chloe Azor: Thank you so much🙈
+[19.06.22, 11:21:57] Chloe Azor: https://forum.unity.com/threads/scale-up-on-collision.513001/
+[19.06.22, 11:22:21] Melisa: We can try this out today, thank you!
+[19.06.22, 11:22:25] Chloe Azor: this also looks like it could work but we just have to scale down instead of up
+[19.06.22, 11:26:06] Chloe Azor: I have not been able to find anything on this🥴🥴. But I have an idea🙈
+[19.06.22, 11:26:23] Chloe Azor: See you guys at 13😊
+[19.06.22, 11:30:10] Gaia Gragnolati: Yea I ve been trying something like that but didn't work. We can try later together
+[19.06.22, 11:31:08] Gaia Gragnolati: Oh nooo that sucks :/
+[20.06.22, 11:02:43] Gaia Gragnolati: guys I just found the right code for the Shrinking
+[20.06.22, 11:02:46] Gaia Gragnolati: 🎊
+[20.06.22, 11:02:51] Melisa: Hey. I have some stuff to do today so I may be in Westerberg at around 13:30 - 14:00
+[20.06.22, 11:02:57] Melisa: Really? :D
+[20.06.22, 11:03:28] Gaia Gragnolati: we just need to set a timer for it maybe, so it doesnt remain like that till the end
+[20.06.22, 11:03:37] Gaia Gragnolati: oki
+[20.06.22, 11:04:58] Gaia Gragnolati: i m gonna commit the changes
+[20.06.22, 11:08:37] Melisa: Okay. Thanks a lot!
+[20.06.22, 11:08:54] Melisa: I can also meet tomorrow morning btw. I wll have time
+[20.06.22, 11:12:48] Chloe Azor: That’s so cool! Thank you so much
+[20.06.22, 11:16:58] Gaia Gragnolati: Let me know when u are on ur way then :)
+[20.06.22, 11:18:59] Melisa: Yeah sure :)
+[20.06.22, 12:55:30] Gaia Gragnolati: I m not available tomorrow morning. So I ll prefer working on it till late today at best trying to have level 3 finished. And maybe we can add the instructions later in the week
+[20.06.22, 12:55:54] Melisa: Okay 👍🏻
+[20.06.22, 13:05:31] Melisa: I am gonna take the bus soon to Westerberg
+[20.06.22, 13:11:22] Gaia Gragnolati: Perfect
+[20.06.22, 13:11:25] Gaia Gragnolati: I m leaving soon too
+[20.06.22, 13:11:29] Gaia Gragnolati: See u at the Frosch
+[20.06.22, 13:12:31] Melisa: See you soon! 🌻
+[20.06.22, 18:45:33] Chloe Azor: Hey guys! Will we meet tomorrow??
+[20.06.22, 18:50:21] Melisa: Hey. I can tomorrow morning but Gaia doesn't have time. We have been dealing with an issue for hours. We need to change the player's scaling after it gets smaller, so it should turn back to normal state somehow
+[20.06.22, 18:50:27] Melisa: but no solutions so far
+[20.06.22, 18:51:52] Chloe Azor: Would it maybe be possible to meet tomorrow morning just so that I can get up to speed with everything that has changed since I wasn’t there today 🙈. I’ve really been sick today🥴
+[20.06.22, 18:52:05] Chloe Azor: I will also see if I can find something😊
+[20.06.22, 18:52:45] Melisa: Yeah sure, we can meet tomorrow
+[20.06.22, 18:52:52] Melisa: Get well soon!
+[20.06.22, 18:53:03] Chloe Azor: Thank you so much! What time would suit you??
+[20.06.22, 18:53:08] Chloe Azor: Thank you🙈🙈🙈
+[20.06.22, 20:48:27] Melisa: Like at 10:00 am maybe?
+[21.06.22, 07:23:00] Chloe Azor: That will be perfect thank you so much
+[21.06.22, 08:00:24] Melisa: There is something wrong with my eye and I am kinda in pain. I may not join today :/
+[21.06.22, 08:01:39] Melisa: Yesterday we manage to make the player bigger after taking the egg but when we stand on the platforms, the players scales itself to the platform somehow and becomes huge
+[21.06.22, 08:02:35] Melisa: If you have time, you can try to have a look at it maybe or how to rotate the planets
+[21.06.22, 08:09:52] Chloe Azor: Ahhh nooooo! I hope it gets better soon!!
+[21.06.22, 08:10:11] Chloe Azor: I will have a look at this
+[21.06.22, 08:10:44] Chloe Azor: I have maths now until 10 but I will have a look after 10😊😊
+[21.06.22, 08:12:26] Melisa: Thank you so much. I am so sorry that I am not able to join today. I wanted to stay a bit far from the pc just in case
+[21.06.22, 09:09:33] Chloe Azor: Not a problem at all!😊
+[21.06.22, 10:32:53] Chloe Azor: Hi guys! I was wondering if you could maybe help
+[21.06.22, 10:33:06] Chloe Azor: My project has just disappeared off of my units
+[21.06.22, 10:33:31] Melisa: Can you share a screenshot?
+‎[21.06.22, 10:33:49] Chloe Azor: ‎image omitted
+[21.06.22, 10:34:42] Melisa: So weird .. Can you reach the files on your computer?
+[21.06.22, 10:34:49] Melisa: If you know the directory
+‎[21.06.22, 10:34:57] Chloe Azor: ‎<attached: 00000941-VIDEO-2022-06-21-10-34-57.mp4>
+[21.06.22, 10:35:32] Chloe Azor: Maybe I can try reach it through plastic?
+[21.06.22, 10:35:52] Melisa: That can be an option or find the project on your computer
+[21.06.22, 10:36:00] Melisa: the main folder I mean, then you can try to open it again on Unity
+[21.06.22, 10:36:38] Chloe Azor: I’ll quickly try that
+[21.06.22, 10:38:16] Chloe Azor: How can I open it from plastic with unity?
+‎[21.06.22, 10:39:48] Melisa: ‎image omitted
+[21.06.22, 10:39:57] Melisa: Do you mean this?
+‎[21.06.22, 10:40:01] Chloe Azor: ‎image omitted
+[21.06.22, 10:40:19] Melisa: okay, just go to Unity and open the project there
+[21.06.22, 10:40:26] Gaia Gragnolati: Can u reopen it from unity?
+[21.06.22, 10:40:37] Melisa: Yeah you should be able to
+[21.06.22, 10:40:45] Chloe Azor: It just disappeared from my unity🥺
+[21.06.22, 10:41:06] Chloe Azor: So I go to unity hub and it says there are no projects
+[21.06.22, 10:41:22] Gaia Gragnolati: Click on open
+[21.06.22, 10:41:34] Gaia Gragnolati: To take it from ur folder
+‎[21.06.22, 10:41:41] Melisa: ‎image omitted
+[21.06.22, 10:42:43] Chloe Azor: I found it there thank you! Now it just says that it can’t open. And then it says check logs
+[21.06.22, 10:43:15] Melisa: You are welcome. I think I haven't had this error before
+[21.06.22, 10:43:16] Chloe Azor: It looks like it’s working now!
+[21.06.22, 10:43:30] Chloe Azor: Thank you so much guys🙈🙈
+[21.06.22, 10:46:20] Melisa: You are welcome :)
+‎[21.06.22, 11:04:54] Chloe Azor: ‎<attached: 00000963-VIDEO-2022-06-21-11-04-54.mp4>
+[21.06.22, 11:05:52] Melisa: ah it looks so cool! can you stand on it, because we have an issue of becoming extremely large in moving platforms :D
+‎[21.06.22, 11:06:06] Chloe Azor: ‎<attached: 00000965-AUDIO-2022-06-21-11-06-06.opus>
+‎[21.06.22, 11:06:48] Chloe Azor: ‎<attached: 00000966-VIDEO-2022-06-21-11-06-48.mp4>
+[21.06.22, 11:10:09] Melisa: ahhh I see
+[21.06.22, 11:10:24] Melisa: Yeah, you are right
+[21.06.22, 11:10:44] Chloe Azor: It should be the same concept as how you got the player the move with the platform?
+[21.06.22, 11:10:51] Chloe Azor: How did you guys do that??
+[21.06.22, 11:14:13] Melisa: By adding different code. They are called platform_1.cs or something
+[21.06.22, 11:14:51] Chloe Azor: Do you think we’d have to do that for the rotating platforms?
+[21.06.22, 11:16:05] Melisa: Maybe. I am not really sure to be honest
+[21.06.22, 11:16:28] Melisa: https://forum.unity.com/threads/moving-character-over-a-rotating-platform.966886/
+[21.06.22, 11:16:30] Melisa: Found something here
+[21.06.22, 11:17:06] Gaia Gragnolati: Looks nice!! I think we could also just keep it like that
+[21.06.22, 11:17:53] Gaia Gragnolati: Before adding new scripts to attach the player to the platform is better if we fix the problem of yesterday:/
+[21.06.22, 11:18:18] Chloe Azor: Okay cool!
+[21.06.22, 11:23:20] Chloe Azor: Should I check in the changes?
+[21.06.22, 12:56:28] Melisa: Just to make sure, maybe keep them on your pc for now so we don’t have any conflicts
+[21.06.22, 12:56:42] Melisa: And then we can test them when we meet up again
+[22.06.22, 13:02:38] Gaia Gragnolati: @4915752669689  can you please send me a pic of the void Update in the player script ? i lost the new part, i need to copy
+[22.06.22, 13:03:30] Chloe Azor: Yeah sure! I will send it now
+[22.06.22, 13:05:04] Chloe Azor: Would you like me to copy and paste then you don’t have to rewrite
+‎[22.06.22, 13:05:37] Chloe Azor: ‎image omitted
+[22.06.22, 14:21:44] Gaia Gragnolati: Oh u don't have it
+[22.06.22, 14:21:50] Gaia Gragnolati: Did u update the workspace?
+[22.06.22, 14:25:42] Gaia Gragnolati: nvm i fixed it
+[22.06.22, 14:50:32] Chloe Azor: It says I have many conflicts🥲
+[22.06.22, 14:54:22] Gaia Gragnolati: I think u should have update the workspace (with the changes from monday) before editing other stuff
+[22.06.22, 14:54:25] Gaia Gragnolati: Maybe that s wby
+[22.06.22, 14:54:28] Gaia Gragnolati: Why*
+[22.06.22, 16:12:09] Chloe Azor: I did do that 🥲
+[22.06.22, 16:12:29] Chloe Azor: I’m trying with the platforms but I can’t seem to figure it out
+[22.06.22, 16:17:17] Gaia Gragnolati: I think we can't fix that, I m just thinking to keep the alien tiny till the end at this point
+‎[22.06.22, 16:19:25] Gaia Gragnolati: ‎<attached: 00000996-AUDIO-2022-06-22-16-19-25.opus>
+‎[22.06.22, 16:37:02] Chloe Azor: ‎<attached: 00000997-AUDIO-2022-06-22-16-37-02.opus>
+[22.06.22, 17:41:29] Gaia Gragnolati: I made the spaceship 🎉
+[22.06.22, 17:42:04] Gaia Gragnolati: Yes sure, if u can find a good video on that (intro page) would be really helpful
+‎[22.06.22, 17:46:02] Gaia Gragnolati: ‎video omitted
+[22.06.22, 17:46:48] Gaia Gragnolati: How many planets did you make rotating btw? :)
+[22.06.22, 18:10:35] Chloe Azor: Oh my goshhhhh I love ittttttyy
+[22.06.22, 18:10:43] Chloe Azor: I think there were 4 or 5
+[22.06.22, 18:11:17] Chloe Azor: I love the wizardsss
+[22.06.22, 18:19:56] Chloe Azor: Are they not rotating there by you at the moment??
+[22.06.22, 18:24:02] Gaia Gragnolati: Haven't updated ur changes
+[22.06.22, 18:24:26] Gaia Gragnolati: For this
+[22.06.22, 18:32:12] Chloe Azor: Okay cool😊
+[22.06.22, 19:00:51] Gaia Gragnolati: https://soundcloud.com/user-58199899/glitch-bot?utm_source=assetstore.unity.com&utm_campaign=wtshare&utm_medium=widget&utm_content=https%253A%252F%252Fsoundcloud.com%252Fuser-58199899%252Fglitch-bot
+[22.06.22, 19:00:59] Gaia Gragnolati: i like this audio ahah
+[22.06.22, 19:01:56] Chloe Azor: Me toooo! Can we use it!
+[22.06.22, 19:02:24] Gaia Gragnolati: also this one: https://www.youtube.com/watch?time_continue=14&v=eM9Zy7V5tEI&feature=emb_title
+[22.06.22, 19:06:56] Gaia Gragnolati: how do you feel btw? Still positive :( ?
+[22.06.22, 19:15:14] Chloe Azor: I have not tested yet , but i feel soooo much better thank you for asking! I will test again tomorrow to see if i can travel and be back in Osnabrück this weekend😊
+[22.06.22, 19:15:41] Gaia Gragnolati: That s good to hear :)
+[22.06.22, 19:16:41] Chloe Azor: I like both of them but I love this one😂
+[22.06.22, 19:17:11] Gaia Gragnolati: same
+[22.06.22, 22:06:24] Gaia Gragnolati: I ve added all sounds, is really cool. Tomorrow I ll show u guys.
+[22.06.22, 22:07:18] Gaia Gragnolati: So remaining things to add: wizard damage and instructions. Tomorrow let s meet around 18:30 ?
+[22.06.22, 22:07:32] Chloe Azor: Sounds perfect!
+[22.06.22, 22:07:39] Chloe Azor: I can’t wait to see😱
+[22.06.22, 22:10:17] Gaia Gragnolati: Nice! I d like to have everything done before the weekend since my boyfriend might come over. We could even record the video on Friday maybe
+[22.06.22, 22:39:44] Chloe Azor: Okay cool!😊😊
+[23.06.22, 08:50:21] Melisa: Good morning guys. I could just look at the messages now, I am sorry for the delay. I’ll read them in detail
+[23.06.22, 08:51:08] Melisa: Are we meeting today @393465866155  at your place? So I can take my laptop and Chloe can join us via discord maybe?
+[23.06.22, 08:52:26] Gaia Gragnolati: No worries :)
+[23.06.22, 08:52:54] Gaia Gragnolati: Yesss 😝
+[23.06.22, 09:20:44] Chloe Azor: 😊😊😊🎉🎉👍🏻👍🏻
+[23.06.22, 13:04:05] Melisa: Guys I’d just say we fix some issues and polish it today maybe? I think adding more features would stress us out right?
+[23.06.22, 13:07:50] Gaia Gragnolati: We definitely need to add the wizard damage
+[23.06.22, 13:08:08] Gaia Gragnolati: Did u have the sounds?
+[23.06.22, 13:08:09] Melisa: What exactly do you mean?
+[23.06.22, 13:08:19] Melisa: I am not at home right now
+[23.06.22, 13:08:23] Melisa: Which sounds?
+[23.06.22, 13:08:24] Gaia Gragnolati: Level 3 wizard doesn't damage the player yet
+[23.06.22, 13:08:33] Gaia Gragnolati: We need the keyboard damage
+[23.06.22, 13:08:35] Melisa: But it was damaging before I guess
+[23.06.22, 13:08:44] Melisa: Reverse keyboard you mean
+[23.06.22, 13:08:51] Gaia Gragnolati: I added all audio files, I ll show u later
+[23.06.22, 13:08:57] Gaia Gragnolati: Yep
+[23.06.22, 13:09:15] Melisa: I think we could skip it if we can’t figure it out
+[23.06.22, 13:09:22] Melisa: Because I don’t have an idea about it yet
+[23.06.22, 13:09:29] Gaia Gragnolati: I think we can do it
+[23.06.22, 13:09:38] Gaia Gragnolati: We ll manage :)
+[23.06.22, 13:09:54] Gaia Gragnolati: No cause we don't have an enemy script fot level 3 yet
+[23.06.22, 13:10:18] Gaia Gragnolati: Did u update the workspace?
+[23.06.22, 13:11:23] Melisa: I just came home. I need to go to my class now
+[23.06.22, 13:11:43] Melisa: We could try the keyboard but if it doesn’t work, we could leave it out
+[23.06.22, 13:11:52] Gaia Gragnolati: Ok then no stress, we ll see tonight:)
+‎[23.06.22, 18:46:58] Chloe Azor: ‎<attached: 00001050-AUDIO-2022-06-23-18-46-58.opus>
+[23.06.22, 18:59:25] Chloe Azor: Oh my gosh I love the sound the egg makes!!
+[23.06.22, 19:00:52] Gaia Gragnolati: Hey chloe
+[23.06.22, 19:00:58] Gaia Gragnolati: We re eating now
+[23.06.22, 19:01:03] Gaia Gragnolati: We ll be a bit late
+[23.06.22, 19:01:08] Chloe Azor: No problem
+‎[23.06.22, 19:01:55] Chloe Azor: ‎<attached: 00001056-AUDIO-2022-06-23-19-01-55.opus>
+[23.06.22, 19:10:53] Gaia Gragnolati: U can start doing it if u want
+[23.06.22, 19:11:18] Gaia Gragnolati: (The rotation I mean)
+[23.06.22, 19:12:10] Gaia Gragnolati: So we can start with the wizard when we meet
+‎[23.06.22, 19:17:57] Chloe Azor: ‎<attached: 00001060-AUDIO-2022-06-23-19-17-57.opus>
+[23.06.22, 19:25:14] Chloe Azor: Did you guys remove some colliders of the planets?
+[23.06.22, 19:38:12] Gaia Gragnolati: we are ready
+[23.06.22, 20:18:45] Chloe Azor: https://forum.unity.com/threads/moving-character-over-a-rotating-platform.966886/
+[23.06.22, 21:20:41] Chloe Azor: https://forum.unity.com/threads/how-to-reverse-the-key-press.59660/
+[23.06.22, 21:26:12] Chloe Azor: https://answers.unity.com/questions/1375359/left-and-right-is-inverted-when-moving.html
+‎[23.06.22, 21:55:24] Chloe Azor: ‎image omitted
+‎[23.06.22, 22:03:35] Chloe Azor: ‎<attached: 00001067-PHOTO-2022-06-23-22-03-35.jpg>
+[24.06.22, 08:26:21] Chloe Azor: Good morning! Sorry I forgot… what time are we meeting this morning
+[24.06.22, 08:44:25] Gaia Gragnolati: Morgen
+[24.06.22, 08:44:28] Gaia Gragnolati: 10
+[24.06.22, 08:53:38] Melisa: Morgen 🌻
+‎[24.06.22, 09:11:27] Melisa: ‎image omitted
+[24.06.22, 09:12:58] Gaia Gragnolati: Yea that was still Jule's code
+[24.06.22, 09:13:19] Melisa: I am gonna delete it then :DD
+[24.06.22, 09:22:51] Gaia Gragnolati: Somehow i can't enter play mode
+[24.06.22, 09:22:57] Gaia Gragnolati: D:
+[24.06.22, 09:23:18] Melisa: oh how? :D the play button doesn't work on Unity?
+[24.06.22, 09:24:22] Gaia Gragnolati: Yea
+[24.06.22, 09:25:44] Melisa: I have conflicts now with your changes somehow
+[24.06.22, 09:25:48] Melisa: did you do something recently
+[24.06.22, 09:26:12] Melisa: but I updated it successfully, it is fine I guess
+‎[24.06.22, 09:27:01] Melisa: ‎image omitted
+[24.06.22, 09:32:48] Gaia Gragnolati: I fixed it
+‎[24.06.22, 09:33:07] Gaia Gragnolati: ‎<attached: 00001084-AUDIO-2022-06-24-09-33-07.opus>
+‎[24.06.22, 09:35:12] Gaia Gragnolati: ‎<attached: 00001085-AUDIO-2022-06-24-09-35-12.opus>
+[24.06.22, 09:36:04] Melisa: Ah okay
+[24.06.22, 09:48:27] Melisa: I thought we could add dragon for the insect in level 3
+[24.06.22, 09:48:32] Melisa: I tried but somehow couldn't do it
+[24.06.22, 09:52:14] Gaia Gragnolati: Oh strange
+[24.06.22, 09:52:29] Gaia Gragnolati: Have u happened to find another video for the starting page?
+[24.06.22, 09:54:20] Melisa: I am trying to find one that is up to date
+[24.06.22, 09:54:24] Melisa: and useful
+‎[24.06.22, 09:57:31] Melisa: ‎image omitted
+[24.06.22, 09:57:40] Melisa: did you also commit menu or something, because it says there is a duplicate
+‎[24.06.22, 09:57:50] Gaia Gragnolati: ‎<attached: 00001095-AUDIO-2022-06-24-09-57-50.opus>
+[24.06.22, 09:58:13] Melisa: It is fine
+[24.06.22, 09:58:42] Melisa: things I did yesterday are gone
+[24.06.22, 09:58:46] Melisa: I think you committed your own menu
+[24.06.22, 09:58:58] Gaia Gragnolati: What?? O.0
+[24.06.22, 09:59:03] Gaia Gragnolati: I didn't touch the menu
+‎[24.06.22, 09:59:16] Melisa: ‎image omitted
+[24.06.22, 09:59:22] Melisa: I don't know what happened
+[24.06.22, 09:59:40] Melisa: I will delete it and start it over maybe
+[24.06.22, 09:59:45] Gaia Gragnolati: I think i still have it
+[24.06.22, 10:00:10] Gaia Gragnolati: Oh no I dont
+[24.06.22, 10:00:12] Melisa: I mean I am deleting it and it comes back somehow it is really weird
+[24.06.22, 10:00:44] Melisa: I think we can try to create the menu again
+[24.06.22, 10:02:30] Gaia Gragnolati: If u delete it it doesn't give u errors anymore?
+[24.06.22, 10:02:52] Melisa: It doesn't. It was about the menu scene itself
+[24.06.22, 10:02:57] Melisa: it said there were duplicated
+[24.06.22, 10:03:00] Melisa: duplicates*
+‎[24.06.22, 10:03:35] Gaia Gragnolati: ‎<attached: 00001112-AUDIO-2022-06-24-10-03-35.opus>
+[24.06.22, 10:04:08] Gaia Gragnolati: Be there in 5
+[24.06.22, 12:11:13] Gaia Gragnolati: i just realized the sound migth be messed up becase you change the number of the scene (when u put the menu to be scene 0 ), i think when we fix that it ll be back again w/o duplicating
+[24.06.22, 12:11:39] Chloe Azor: 🤞🏼🤞🏼🤞🏼🤞🏼🤞🏼🤞🏼🤞🏼🤞🏼
+[24.06.22, 12:11:59] Melisa: It was already in the beginning
+‎[24.06.22, 12:12:05] Melisa: ‎<attached: 00001117-PHOTO-2022-06-24-12-12-05.jpg>
+[24.06.22, 12:13:05] Gaia Gragnolati: The sound is connected to the scene number
+[24.06.22, 12:13:08] Gaia Gragnolati: We ll fix it later
+[24.06.22, 12:13:24] Chloe Azor: Unless we also just add Sound to the menu scene?
+[24.06.22, 12:45:42] Gaia Gragnolati: We can add it to the menu too if u want
+[24.06.22, 13:12:15] Gaia Gragnolati: how is it going with the menu page?
+[24.06.22, 13:14:51] Gaia Gragnolati: i can join again at 14
+[24.06.22, 13:15:51] Melisa: I am busy right now I’ll continue later on
+[24.06.22, 13:16:03] Gaia Gragnolati: oki
+[24.06.22, 13:16:20] Gaia Gragnolati: 14 is fine for  you guys?
+[24.06.22, 13:16:27] Gaia Gragnolati: i have time till 15:40
+[24.06.22, 13:20:18] Gaia Gragnolati: i can make it also for 1345
+[24.06.22, 13:27:36] Chloe Azor: On my unity after updating changes I cannot move the player anymore…
+[24.06.22, 13:27:39] Chloe Azor: 🥴
+[24.06.22, 13:46:12] Gaia Gragnolati: ?
+[24.06.22, 13:46:36] Chloe Azor: I am just quickly eating
+[24.06.22, 13:46:50] Chloe Azor: I can meet again just after 2
+[24.06.22, 13:47:05] Gaia Gragnolati: Ok np
+[24.06.22, 13:47:10] Gaia Gragnolati: @491782002158 ?
+[24.06.22, 13:49:00] Chloe Azor: Could you please maybe check in like a small change or something… so that I can download the change again to see if my player moves again…
+[24.06.22, 13:49:04] Chloe Azor: When you have time
+[24.06.22, 13:49:32] Gaia Gragnolati: Yes
+[24.06.22, 13:50:11] Chloe Azor: Thank you!
+[24.06.22, 13:51:21] Gaia Gragnolati: I did
+[24.06.22, 13:57:07] Melisa: Would it be fine to meet at 14:15?
+‎[24.06.22, 13:58:26] Chloe Azor: ‎<attached: 00001142-PHOTO-2022-06-24-13-58-26.jpg>
+[24.06.22, 14:01:32] Chloe Azor: Could I check on my changes for the rotation of the planets?
+[24.06.22, 14:01:36] Chloe Azor: For level 1
+[24.06.22, 14:01:42] Gaia Gragnolati: yes
+[24.06.22, 14:01:50] Gaia Gragnolati: yes
+[24.06.22, 14:02:12] Chloe Azor: Oki💪🏼
+[24.06.22, 14:02:19] Gaia Gragnolati: there is a new problem: the enemies keep spawning in level 3 when player dies
+[24.06.22, 14:02:59] Chloe Azor: Oh my gosh🥲
+[24.06.22, 14:05:51] Gaia Gragnolati: ok that actually happens in every level
+[24.06.22, 14:06:53] Melisa: I did not take ur changes and I’ll check it out. Also, I didn’t commit the menu so we can see if I have the same issue
+[24.06.22, 14:11:46] Gaia Gragnolati: only level 2 and 3
+[24.06.22, 14:14:21] Melisa: I’ll take my laundru and be on discord soon
+[24.06.22, 14:14:31] Melisa: laundry*
+[24.06.22, 14:17:41] Gaia Gragnolati: I fixed it :D
+‎[24.06.22, 15:59:58] Gaia Gragnolati: ‎<attached: 00001156-PHOTO-2022-06-24-15-59-58.jpg>
+[24.06.22, 16:03:15] Gaia Gragnolati: I just checked in my changes for the sound effect btw
+[24.06.22, 16:04:26] Melisa: I can fix that too, thanks!
+[24.06.22, 16:18:00] Melisa: One more thing, the enemies interfere with planets and sometimes are occluded by them. I have an idea to fix it but if that doesn't work, would it be fine to leave it out?
+[24.06.22, 16:18:45] Gaia Gragnolati: What do you mean exactly by occluded
+[24.06.22, 16:19:11] Melisa: When enemies fall down, they sometimes go behind the planets
+[24.06.22, 16:19:15] Melisa: sometimes at the front
+[24.06.22, 16:19:20] Melisa: we had it in the beginning too
+[24.06.22, 16:19:22] Gaia Gragnolati: Ohh
+[24.06.22, 16:19:34] Gaia Gragnolati: Didn't we fixed that in the past somehow?
+[24.06.22, 16:20:34] Gaia Gragnolati: I remember we check the z axis of all planets and enemies to fix it
+[24.06.22, 16:21:19] Gaia Gragnolati: Or maybe try to check in the z axis in the spawn manager where there is the randomized function
+[24.06.22, 16:21:39] Melisa: It should be in a way that the enemies and the player should touch each other
+[24.06.22, 16:21:48] Melisa: if too far, then no damage or killing. I'll see it later
+[24.06.22, 16:24:07] Gaia Gragnolati: Ok, just feel free to fix it as u think is best
+‎[24.06.22, 18:14:21] Melisa: ‎image omitted
+[24.06.22, 18:14:29] Melisa: @4915752669689 Your text fits perfectly! :D
+[24.06.22, 18:14:45] Chloe Azor: Oh my gosh I love it
+[24.06.22, 18:15:01] Melisa: It looks so nice! Thank you!
+‎[24.06.22, 18:23:10] Melisa: ‎image omitted
+[24.06.22, 18:29:21] Chloe Azor: Loooks soooo coool
+[24.06.22, 18:29:37] Chloe Azor: We could maybe add “introduction to unity”
+[24.06.22, 18:29:45] Chloe Azor: Just an idea tho😅
+[24.06.22, 18:33:46] Melisa: We can do that as well :)
+[24.06.22, 18:34:20] Melisa: I adjusted some planets, added a few extra to jump better and committed them. After eating something, I’ll deal with the game over screen
+[24.06.22, 19:42:06] Chloe Azor: Thank you so so much! Is there anything I can do or help with??
+[24.06.22, 20:51:24] Melisa: You are welcome!
+[24.06.22, 20:51:39] Melisa: I have been watching some videos, including this one::
+https://www.youtube.com/watch?v=Bzjat5pskrM
+[24.06.22, 20:52:01] Melisa: I am trying to understand where exactly we should load the game over screen
+[24.06.22, 20:52:11] Melisa: in which script I mean
+[24.06.22, 21:19:54] Melisa: I started to have erros and cannot solve it ..
+‎[24.06.22, 21:19:59] Melisa: ‎image omitted
+[24.06.22, 21:20:13] Melisa: this started after I created game over. Now I deleted it and still have the same issue on main menu
+[24.06.22, 21:33:54] Melisa: @4915752669689 if you are available, can you make some changes and then commit?
+[24.06.22, 21:34:00] Melisa: I cannot solve this issue
+[24.06.22, 21:35:10] Chloe Azor: I will quickly commit sometning
+[24.06.22, 21:35:49] Chloe Azor: Sorry for not replying to your above messages I was also trying to see if I could figure something but as yet nothing
+[24.06.22, 21:39:19] Chloe Azor: Did it work
+[24.06.22, 21:42:47] Melisa: It is fine. Seems like there is no update
+[24.06.22, 21:42:59] Melisa: I deleted the whole menu and am trying to create it again ..
+[24.06.22, 22:13:44] Melisa: I created the main manu from scratch and still have this stupid error. I am out of solutions currently ..
+[24.06.22, 23:08:18] Gaia Gragnolati: Guys I just finished working
+[24.06.22, 23:08:59] Gaia Gragnolati: I think this means that you are trying to do something without a script
+[24.06.22, 23:12:23] Melisa: I am trying a different video
+[24.06.22, 23:12:31] Melisa: Unless that works, I really don’t know
+[24.06.22, 23:12:48] Melisa: It was exactly the same as in the morning and I am getting those 2 errors
+[24.06.22, 23:16:43] Melisa: still not working
+[24.06.22, 23:16:57] Melisa: It just happends on the main menu when I click on play, the game is intact but still it complains
+‎[24.06.22, 23:16:59] Gaia Gragnolati: ‎<attached: 00001204-AUDIO-2022-06-24-23-16-59.opus>
+[24.06.22, 23:17:15] Melisa: It is not about game over
+[24.06.22, 23:17:19] Melisa: It is about the main menu
+[24.06.22, 23:17:31] Melisa: and we need to fix it I believe
+[24.06.22, 23:31:47] Melisa: @393465866155 Gaia could you please tell me if you have the intact start menu when you are available?
+[24.06.22, 23:32:03] Melisa: By trying to play the game in the start menu scene
+[25.06.22, 00:01:55] Gaia Gragnolati: I ll quickly check
+‎[25.06.22, 00:02:49] Gaia Gragnolati: ‎<attached: 00001211-PHOTO-2022-06-25-00-02-49.jpg>
+[25.06.22, 00:03:14] Melisa: Can u click on play there?
+[25.06.22, 00:03:17] Melisa: On the menu
+[25.06.22, 00:03:54] Gaia Gragnolati: Yep that works
+[25.06.22, 00:04:15] Melisa: It’d be nice to get ur current version somehow
+[25.06.22, 00:04:18] Melisa: But not sure how
+[25.06.22, 00:05:24] Gaia Gragnolati: Mmh, I can make a small edit somewhere... idk though, let me know if u come up with something :)
+[25.06.22, 00:05:48] Melisa: I was trying for hours ..
+[25.06.22, 00:06:42] Melisa: Maybe make the change on its own script or something
+[25.06.22, 00:06:53] Melisa: Becauae other small changes don’t reach me
+[25.06.22, 00:08:31] Gaia Gragnolati: I can make a comment inn the menu script?
+[25.06.22, 00:09:12] Melisa: someone helped me out
+[25.06.22, 00:09:25] Melisa: now it works lol
+[25.06.22, 00:09:26] Melisa: oh my
+[25.06.22, 00:09:56] Gaia Gragnolati: Oh very good
+[25.06.22, 00:10:01] Gaia Gragnolati: 🎉
+[25.06.22, 00:10:20] Melisa: I spent hours lol
+[25.06.22, 00:10:26] Melisa: He said he liked our music:D:D
+[25.06.22, 00:11:08] Melisa: okay tomorrow morning I'll retry game over scene
+[25.06.22, 00:11:18] Melisa: Because I was almost done with it till this error
+‎[25.06.22, 09:51:03] Melisa: ‎image omitted
+[25.06.22, 09:51:18] Melisa: I added new script and a few lines of code. I am committing now and you can try them out
+[25.06.22, 12:14:28] Gaia Gragnolati: Hii
+‎[25.06.22, 12:14:34] Melisa: ‎image omitted
+[25.06.22, 12:14:40] Gaia Gragnolati: Thank uu, i m gonna check it out
+[25.06.22, 12:14:45] Melisa: I think something like which features we've added etc?
+[25.06.22, 12:14:49] Melisa: You are welcome
+[25.06.22, 12:15:09] Melisa: I have time and I can prepare a cool documentation today
+[25.06.22, 12:15:11] Chloe Azor: This looks sooo coool! Thank you so much
+[25.06.22, 12:15:22] Melisa: You are welcome!
+[25.06.22, 12:15:43] Gaia Gragnolati: I have no idea, better if we ask I guess
+[25.06.22, 12:16:05] Chloe Azor: I think you’re right!
+[25.06.22, 12:16:12] Gaia Gragnolati: Could u fix also the game over text eventually?
+[25.06.22, 12:16:19] Chloe Azor: Are we going to do the video : voice over today?
+[25.06.22, 12:18:26] Gaia Gragnolati: Tomorrow, let s agree on a time. What about 12 ? :)
+[25.06.22, 12:18:26] Melisa: We don't need game over text we created initially, I deleted it from the code. I created a game over scene. Everything is fine
+[25.06.22, 12:18:35] Melisa: Sure, it is fine for me
+[25.06.22, 12:18:49] Gaia Gragnolati: Yea that s what I meant. Great :)
+[25.06.22, 12:19:40] Gaia Gragnolati: I ll check the game later today. But everything should be finished right?
+[25.06.22, 12:20:07] Melisa: I think so
+[25.06.22, 12:20:18] Melisa: I'll test the game again during the day
+[25.06.22, 12:21:31] Gaia Gragnolati: Perfect 😝
+‎[25.06.22, 12:22:26] Chloe Azor: ‎<attached: 00001253-AUDIO-2022-06-25-12-22-26.opus>
+[25.06.22, 12:28:08] Gaia Gragnolati: In the evening is also fine for me
+[25.06.22, 12:28:28] Gaia Gragnolati: Like at 17:30 tomorrow?
+[25.06.22, 12:29:21] Melisa: Sure, I’m totally available tomorrow as well
+[25.06.22, 12:33:14] Chloe Azor: Thank you so much!
+[25.06.22, 13:05:17] Melisa: The guy I talked to yesterday said health bar was missing for him somehow, it is intact for me right now
+[25.06.22, 13:05:28] Melisa: Also he suggested to decrease the volume of the background sound in level 2
+[25.06.22, 13:05:41] Melisa: When we are done, we should test the game as well
+‎[25.06.22, 14:15:13] Melisa: ‎image omitted
+[25.06.22, 14:15:40] Melisa: Since the images are too small, I cannot make them bigger because they are getting blurry then
+[25.06.22, 14:16:00] Melisa: I mean the enemies and potions etc.
+[25.06.22, 14:22:01] Melisa: I can also remove the pictures
+‎[25.06.22, 14:48:05] Melisa: ‎image omitted
+[25.06.22, 14:49:32] Chloe Azor: Oh my word! I love thissssss!😱😱😱
+[25.06.22, 14:49:39] Chloe Azor: You made it sound soooo cute!
+[25.06.22, 14:50:00] Melisa: Thank you so much! :) I'll try to add whole levels if I can do so
+[25.06.22, 14:50:06] Chloe Azor: Could you possibly send it on… maybe I can change some small English grammar mistakes?
+[25.06.22, 14:50:16] Chloe Azor: Whole levels?😊
+[25.06.22, 14:51:02] Melisa: I'll send it as soon as I'm done with it
+[25.06.22, 14:51:20] Chloe Azor: Okay coool!
+[25.06.22, 14:54:08] Melisa: I am not sure if we should add some pictures or the text itself is enough
+[25.06.22, 14:54:27] Melisa: I can send it now if you have time
+[25.06.22, 14:54:36] Chloe Azor: I think the text is enough? What do you think??
+[25.06.22, 14:54:44] Melisa: I feel the same :)
+[25.06.22, 14:54:49] Chloe Azor: Yes I have time now 😊
+‎[25.06.22, 14:55:06] Melisa: Group_1_Human_Invasion.docx ‎<attached: 00001278-Group_1_Human_Invasion.docx>
+‎[25.06.22, 14:57:53] Chloe Azor: ‎<attached: 00001279-AUDIO-2022-06-25-14-57-53.opus>
+[25.06.22, 14:59:44] Melisa: Yeah sure
+[25.06.22, 15:16:00] Chloe Azor: Ideas
+
+The idea of the “Human Invasion” game came from all of the group members agreeing that creating a game that takes place in space, sounds like a fun challenge. In all media, aliens are usually depicted as the creatures invading our earth, well in this game it is reversed! This time the Humans are the creatures invading the alien planets. The title “Human Invasion” of our game was inspired by the all time famous “Space Invasion”.
+
+Features
+
+Main Characters
+The main character is a cute alien beetle. The alien needs to be able to defend himself from the human enemies, right? This got us thinking, what do humans hate. Rotten Pizza sounds like a good answer. The asset that we therefore used as a bullet is called “dead Pizza”.
+
+Levels
+
+Level 1: The first enemies that the alien will encounter in level one, are 3 different but ordinary human characters. The alien has 10 lives in total, and a collision with an enemy will minus one live from the alien. In order to proceed to the next level, the green heart situated on top of the golden planet has to be reached.
+
+Level 2: In level 2, the Alien will be faces with 2 different detective enemies! They are coming to investigate and gather any posisble information as to how they could capture the alien. On a collision with a detective enemy, the alien will be faced with a minus 2 damage. But the Alien is never to fear! He has his friends who creates a potion that will add 2 lives. This potion will be situated on top of a planet within this level.
+
+Level 3: The final level comes with several challenges! The alien will now have to overcome the attack of wizards. When compared to the previous level, the wizard also only gives minus 2 damage, but they spawn more often, making this level the most difficult. As in the previous level, there will also be a potion which increases the alien’s life by 2. In addition to this, there will be a magic egg situated on one of the planets that will shrink the alien if it is collected. This will make a collison with an enemy harder and ultimately work in the favour of the alien. The alien will return to normal size when he meets with his close friend waiting to help him out! Finally when reaching the golden planet the alien will be able to jump into its Spaceship and fly to another galaxy, where he will be safe and free!
+[25.06.22, 15:31:40] Melisa: Thank you so much for the update, I changed it! :)
+[26.06.22, 08:49:32] Melisa: Guten Morgen. Shall we define who is gonna talk about which level?
+[26.06.22, 09:18:01] Gaia Gragnolati: Hi guys, sorry yesterday I wasn't at home. I m gonna have a look at what you wrote later. Thanks for that :)
+[26.06.22, 09:18:24] Gaia Gragnolati: It  s the same for me
+[26.06.22, 09:18:35] Melisa: No worries, you are welcome :)
+[26.06.22, 09:18:38] Melisa: Yeah the same
+‎[26.06.22, 10:20:39] Gaia Gragnolati: ‎<attached: 00001288-PHOTO-2022-06-26-10-20-39.jpg>
+‎[26.06.22, 10:21:29] Gaia Gragnolati: ‎<attached: 00001289-PHOTO-2022-06-26-10-21-29.jpg>
+[26.06.22, 10:23:30] Melisa: I put our stuff into git as well because one person wanted to help me
+[26.06.22, 10:23:38] Melisa: I can commit the git files soon
+[26.06.22, 10:23:41] Melisa: Maybe that’s why
+[26.06.22, 10:24:01] Gaia Gragnolati: What should I click
+[26.06.22, 10:24:14] Gaia Gragnolati: I don't want to mess up 😬
+[26.06.22, 10:25:37] Melisa: Maybe wait for a little
+[26.06.22, 10:26:12] Melisa: I just have git files there on my pending changes
+[26.06.22, 10:26:31] Melisa: not sure if I should commit them
+[26.06.22, 10:27:55] Melisa: I guess you should keep destination changes
+[26.06.22, 10:28:01] Melisa: which is my changes in this case
+[26.06.22, 10:28:06] Gaia Gragnolati: Mmh
+[26.06.22, 10:28:10] Melisa: Because I deleted our initial start menu and created a new one
+[26.06.22, 10:28:12] Gaia Gragnolati: What about the update though
+[26.06.22, 10:28:28] Melisa: I mean update
+[26.06.22, 10:28:33] Melisa: destination changes
+[26.06.22, 10:28:39] Gaia Gragnolati: What changes if I wait?
+[26.06.22, 10:28:55] Melisa: I wanted to check git files but i think it should be okay if you click on destination
+[26.06.22, 10:29:01] Gaia Gragnolati: Ok
+[26.06.22, 10:29:12] Melisa: like we always do on the pop up window
+[26.06.22, 10:29:42] Gaia Gragnolati: Didn't even have to do that fortunately
+[26.06.22, 10:30:10] Melisa: when you are able to update, please tell me what scenes you have. You should have Main_Menu and Game_Over
+[26.06.22, 10:30:12] Gaia Gragnolati: I don't have instructions though
+[26.06.22, 10:30:30] Melisa: I have them :/
+‎[26.06.22, 10:30:33] Gaia Gragnolati: ‎image omitted
+[26.06.22, 10:30:39] Melisa: no
+[26.06.22, 10:30:44] Melisa: this is previous start menu
+[26.06.22, 10:30:56] Melisa: shall we meet on discord shortly? I need to have a breakfast soon
+[26.06.22, 10:31:06] Gaia Gragnolati: Oki
+[26.06.22, 10:31:24] Gaia Gragnolati: Let me know when u re ready :)
+[26.06.22, 10:31:40] Melisa: I am :)
+[26.06.22, 10:33:31] Gaia Gragnolati: Oh perfect, i ll be there soon
+‎[26.06.22, 11:00:13] Melisa: Group_1_Human_Invasion.docx ‎<attached: 00001321-Group_1_Human_Invasion.docx>
+[26.06.22, 11:17:50] Gaia Gragnolati: hey melisa, i found a way.. it was actually simplier that we thought
+[26.06.22, 11:19:24] Gaia Gragnolati: i also deleted the ui manager, and all its instances in the script
+[26.06.22, 11:32:14] Gaia Gragnolati: I also added a small sound at the intro menu. I ll send u a video
+‎[26.06.22, 11:35:04] Gaia Gragnolati: ‎<attached: 00001325-VIDEO-2022-06-26-11-35-04.mp4>
+‎[26.06.22, 11:36:18] Gaia Gragnolati: ‎<attached: 00001326-AUDIO-2022-06-26-11-36-18.opus>
+[26.06.22, 11:44:00] Gaia Gragnolati: Can we fix a typo in the menu
+[26.06.22, 11:44:23] Gaia Gragnolati: Write spacebar together and within quotes like a d
+[26.06.22, 11:44:32] Melisa: Did you try to play the game from the main menu
+[26.06.22, 11:44:37] Melisa: so you can see if there are any errors
+[26.06.22, 11:44:43] Melisa: I can fix that
+[26.06.22, 11:45:04] Gaia Gragnolati: Also it doesn't say how to shoot
+[26.06.22, 11:45:14] Melisa: I can add that
+[26.06.22, 11:45:19] Gaia Gragnolati: Perfect
+[26.06.22, 11:45:27] Gaia Gragnolati: Let me know when u do so I update
+‎[26.06.22, 11:46:06] Melisa: ‎image omitted
+[26.06.22, 11:47:50] Gaia Gragnolati: "Spacebar"
+[26.06.22, 11:48:01] Gaia Gragnolati: So to be consistent wjth the others
+[26.06.22, 11:48:12] Gaia Gragnolati: And also looks nicer written together i think
+[26.06.22, 11:49:09] Melisa: ‎You deleted this message.
+‎[26.06.22, 11:51:31] Melisa: ‎image omitted
+[26.06.22, 11:52:54] Melisa: I committed it
+[26.06.22, 11:54:57] Melisa: Do we need to add our uni emails and matriculation numbers on the document btw?
+[26.06.22, 12:00:41] Gaia Gragnolati: Maybe yes
+‎[26.06.22, 12:01:25] Gaia Gragnolati: ‎<attached: 00001345-AUDIO-2022-06-26-12-01-25.opus>
+[26.06.22, 12:02:12] Melisa: let me try
+‎[26.06.22, 12:03:22] Gaia Gragnolati: ‎<attached: 00001347-AUDIO-2022-06-26-12-03-22.opus>
+‎[26.06.22, 12:03:25] Melisa: ‎image omitted
+[26.06.22, 12:03:33] Melisa: it is fine for me
+[26.06.22, 12:03:48] Gaia Gragnolati: Try level 2
+[26.06.22, 12:03:54] Melisa: this is level 2
+[26.06.22, 12:03:56] Gaia Gragnolati: With the first platform
+[26.06.22, 12:03:59] Gaia Gragnolati: The blue one
+[26.06.22, 12:04:02] Gaia Gragnolati: The moving platfrom
+[26.06.22, 12:04:05] Melisa: ah okay
+[26.06.22, 12:04:31] Melisa: I have the same now
+[26.06.22, 12:04:35] Melisa: but teleporting position is fine
+[26.06.22, 12:04:38] Gaia Gragnolati: I ll try to fix 9t
+[26.06.22, 12:04:41] Melisa: the platform should be relocated I guess
+[26.06.22, 12:04:56] Melisa: if we change the teleport everything is messed up
+[26.06.22, 12:05:20] Gaia Gragnolati: I fixed it
+[26.06.22, 12:05:28] Melisa: what was the issue exactly?
+[26.06.22, 12:05:32] Melisa: the cause I mean
+‎[26.06.22, 12:05:37] Gaia Gragnolati: ‎<attached: 00001364-AUDIO-2022-06-26-12-05-37.opus>
+[26.06.22, 12:06:02] Melisa: just make sure everything is fine with teleporting
+[26.06.22, 12:06:16] Melisa: before checking in
+[26.06.22, 12:07:44] Gaia Gragnolati: Yes
+[26.06.22, 12:08:44] Gaia Gragnolati: I have here my boyfriend testing the game multiple times ahahH
+[26.06.22, 12:08:58] Gaia Gragnolati: So we can spot things in an unbiased way ahah
+[26.06.22, 12:09:00] Melisa: hahaha nicee
+[26.06.22, 12:09:02] Melisa: :D:D
+‎[26.06.22, 12:10:15] Gaia Gragnolati: ‎<attached: 00001372-AUDIO-2022-06-26-12-10-15.opus>
+[26.06.22, 12:10:27] Melisa: I knew that
+[26.06.22, 12:10:31] Melisa: but we designed it this way
+[26.06.22, 12:10:37] Melisa: like having +10 lives in all levels
+[26.06.22, 12:13:16] Melisa: then it should be designed in a way that having +30 lives in total which is distributed to all 3 levels
+[26.06.22, 12:13:22] Melisa: and continuous health bar as you said
+‎[26.06.22, 12:14:12] Gaia Gragnolati: ‎<attached: 00001378-AUDIO-2022-06-26-12-14-12.opus>
+‎[26.06.22, 12:15:33] Gaia Gragnolati: ‎<attached: 00001379-VIDEO-2022-06-26-12-15-33.mp4>
+[26.06.22, 12:17:41] Gaia Gragnolati: ok nvm, the player can jump on the big grey planet. we can keep it like that. I can change the sphere colider of the other planet now
+[26.06.22, 12:18:09] Melisa: Okay then
+[26.06.22, 12:18:17] Melisa: so do we wanna change the life bar?
+[26.06.22, 12:20:14] Gaia Gragnolati: yea let s keep it like that, the game is already hard
+[26.06.22, 12:20:44] Gaia Gragnolati: we should explain how the health bar works in the document too maybe then
+[26.06.22, 12:21:32] Melisa: I didn't understand it, did you change the bar or are we keeping it as it is?
+[26.06.22, 12:25:25] Gaia Gragnolati: i just checked in my changes, you mght need to remove redundant things from the inspector
+[26.06.22, 12:25:53] Gaia Gragnolati: also let me know if the volume of the background music is updated (should be lower for every level)
+[26.06.22, 12:27:47] Melisa: I love the music on the main menu and game over screen! :D
+[26.06.22, 12:27:58] Melisa: The background music is also fine for me
+[26.06.22, 12:29:49] Gaia Gragnolati: nice
+[26.06.22, 12:30:15] Melisa: Thank you!
+[26.06.22, 12:30:22] Melisa: Can we also add potion sound in level 3?
+[26.06.22, 12:30:25] Melisa: I think it doesn't have it
+‎[26.06.22, 12:30:44] Gaia Gragnolati: ‎<attached: 00001394-AUDIO-2022-06-26-12-30-44.opus>
+[26.06.22, 12:31:12] Gaia Gragnolati: yes
+[26.06.22, 12:31:13] Melisa: So shall I do it by creating a new scene?
+[26.06.22, 12:31:17] Melisa: I can try that
+[26.06.22, 12:31:20] Gaia Gragnolati: yes sure
+[26.06.22, 12:31:31] Gaia Gragnolati: i m gonna make sure all sounds arr added in the meantime
+[26.06.22, 12:32:01] Melisa: ah sorry the potion in level 3 has already the sound
+[26.06.22, 12:32:12] Melisa: I think the friend of the alien doesn't have any but we don't have to
+[26.06.22, 12:32:19] Gaia Gragnolati: ahh yea
+[26.06.22, 12:32:24] Gaia Gragnolati: oki
+[26.06.22, 12:32:37] Melisa: I relocated one planet and committed it
+‎[26.06.22, 12:41:05] Melisa: ‎image omitted
+[26.06.22, 12:41:19] Melisa: Now I'll find a way to make it work with the spaceship:D
+[26.06.22, 12:41:47] Gaia Gragnolati: nice!!
+[26.06.22, 12:42:18] Gaia Gragnolati: should be like levelup script
+[26.06.22, 12:42:27] Melisa: or spaceship script
+[26.06.22, 12:48:30] Melisa: I did it. But the thing is since the final scene is popping up, we don't see the animation and the sound of the spaceship
+[26.06.22, 12:48:41] Melisa: can we put a delay or smth
+[26.06.22, 12:50:14] Gaia Gragnolati: yea
+‎[26.06.22, 12:50:18] Chloe Azor: ‎<attached: 00001413-AUDIO-2022-06-26-12-50-18.opus>
+[26.06.22, 12:52:53] Melisa: the timer thing about IEnumerator maybe?
+[26.06.22, 12:52:56] Melisa: Not sure how we can do this
+[26.06.22, 12:53:03] Melisa: It is fine 👍🏻
+[26.06.22, 13:12:54] Melisa: I did itttttttttttttttttttttttttt
+[26.06.22, 13:19:29] Melisa: I committed it, @393465866155  can you check that out when you are available?
+[26.06.22, 13:21:13] Gaia Gragnolati: niceee
+[26.06.22, 13:21:16] Gaia Gragnolati: thank yuu
+[26.06.22, 13:21:19] Gaia Gragnolati: i ll check
+[26.06.22, 13:21:21] Melisa: You are welcome! :)
+[26.06.22, 13:21:55] Melisa: When the player reaches the spaceship, there is a 3 sec time delay and then we see the final scene 👍🏻
+[26.06.22, 13:22:03] Melisa: all animations are intact
+[26.06.22, 13:26:37] Melisa: For the video, would it be fine if I play all 3 levels and you guys mention about the features? I can also speak when I have something to say, I won’t stay silent :D
+[26.06.22, 13:26:47] Melisa: Just not sure if I can play and speak together hahahah
+[26.06.22, 13:27:09] Chloe Azor: I think this is a good plan!
+[26.06.22, 13:27:25] Melisa: Like Jule and Lisa did in the tutorials, we can all speak when we want to
+[26.06.22, 13:27:30] Melisa: It is more interactive I guess
+[26.06.22, 13:27:42] Chloe Azor: 💪🏼💪🏼🎉🎉
+[26.06.22, 13:45:42] Gaia Gragnolati: yes sounds good
+[26.06.22, 13:52:42] Gaia Gragnolati: it works well D
+[26.06.22, 13:52:44] Gaia Gragnolati: :D*
+[26.06.22, 13:53:04] Melisa: 💃🏼
+[26.06.22, 13:53:51] Gaia Gragnolati: let s remember before downloading to check if alll the sounds are attached... idk why sometimes they just disappear from the inspector
+[26.06.22, 13:54:13] Melisa: Yes
+[26.06.22, 13:54:23] Gaia Gragnolati: last thing
+[26.06.22, 13:54:29] Gaia Gragnolati: i think we could change the timing of the bulelts
+[26.06.22, 13:54:40] Gaia Gragnolati: the cool down time is too small
+[26.06.22, 13:54:46] Gaia Gragnolati: we can make slightly bigger
+[26.06.22, 13:54:58] Melisa: Yeah maybe we can do that
+[26.06.22, 14:11:52] Gaia Gragnolati: actually i can t fix the timing of the bullets properly, the only thing that changes is the waiting time at the beginning before being able to shoot the first bullet. The rest remains the same. idk why
+[26.06.22, 14:14:06] Gaia Gragnolati: also the player seems to move better if the next jump time is set to 5, but the same problem remains. you have to wait more to jump again when the game starts or the player gets teleported back
+[26.06.22, 14:15:06] Melisa: Maybe we should look at it together today?
+[26.06.22, 14:15:17] Gaia Gragnolati: yes, let s do that
+[26.06.22, 14:15:27] Gaia Gragnolati: i m gonna watch some videos about it too
+[26.06.22, 15:03:53] Gaia Gragnolati: i set the cooldown time at 0.9. i think it makes the movement of the player a bit smoother and overall makes the game slightly more plyable
+[26.06.22, 15:10:26] Gaia Gragnolati: i changed the speed of the bullet as well
+[26.06.22, 15:11:49] Gaia Gragnolati: i may add sounds also for the shooting and the jumping now
+[26.06.22, 15:12:25] Melisa: I think we should see if there are a lot of audios at the same time
+[26.06.22, 15:13:06] Gaia Gragnolati: it would be only background (which i lowered) and jumping and bullets
+[26.06.22, 15:13:10] Gaia Gragnolati: i ll test it
+‎[26.06.22, 15:36:02] Gaia Gragnolati: ‎<attached: 00001453-VIDEO-2022-06-26-15-36-02.mp4>
+[26.06.22, 15:36:30] Gaia Gragnolati: what do you think?
+[26.06.22, 15:37:18] Gaia Gragnolati: yes, for me it would be better. what time will u be available?
+[26.06.22, 15:38:12] Chloe Azor: I am available now until 16:00 and then after 17:00 I’ll be available again
+[26.06.22, 15:38:20] Chloe Azor: I just have maths from 4-5
+[26.06.22, 15:38:47] Gaia Gragnolati: let s do 17:10 then ?
+[26.06.22, 15:38:56] Chloe Azor: Perfect😊
+[26.06.22, 15:39:49] Melisa: Also fine for me
+[26.06.22, 15:39:57] Melisa: Sounds cool
+[26.06.22, 15:41:10] Gaia Gragnolati: great, i checked those changes in
+[26.06.22, 15:43:07] Gaia Gragnolati: @491782002158 i m also available at 16 if you want to try together to download the game
+[26.06.22, 15:43:43] Gaia Gragnolati: https://www.youtube.com/watch?v=dx52hMxn0FY i m going to watch this video now
+[26.06.22, 15:43:44] Melisa: Are you also available at 16:30?
+[26.06.22, 15:44:00] Gaia Gragnolati: yes sure :)
+[26.06.22, 16:01:09] Melisa: I can jump multiple times in the air and kinda cheat the game
+[26.06.22, 16:01:14] Melisa: Did you change the jumping?
+[26.06.22, 16:01:33] Melisa: it is 0.5 that's why
+[26.06.22, 16:01:41] Melisa: It was 1.25 before, I change it back
+[26.06.22, 16:05:38] Gaia Gragnolati: yes
+[26.06.22, 16:05:47] Gaia Gragnolati: i thoyght it was better like that
+[26.06.22, 16:06:50] Melisa: But one can easily chat
+[26.06.22, 16:06:52] Melisa: Cheat*
+[26.06.22, 16:07:00] Gaia Gragnolati: it allows to play more smoothly i think. Instead of having hard times to get on the platforms it can jump twice to get on them
+[26.06.22, 16:07:01] Melisa: I can jump multiple times and finish the game basically
+[26.06.22, 16:07:14] Gaia Gragnolati: not really, cause it doesn t jump in the sky infinitely
+[26.06.22, 16:07:27] Melisa: But it is not limited to twice since the cooldown is low ansdI can jump several times
+[26.06.22, 16:07:28] Gaia Gragnolati: not as i set it
+[26.06.22, 16:07:44] Gaia Gragnolati: we can see it together when we meet
+[26.06.22, 16:08:55] Gaia Gragnolati: i set it at 0.9, not 0.5
+[26.06.22, 16:09:12] Gaia Gragnolati: try it out
+[26.06.22, 16:09:38] Melisa: Yeah it was 0.9 I just mistyped it
+[26.06.22, 16:09:48] Melisa: 0.9 is too low in my opinion
+[26.06.22, 16:09:59] Melisa: maybe 1 is better
+[26.06.22, 16:10:13] Gaia Gragnolati: ok let s do 1
+[26.06.22, 16:10:45] Melisa: I made the camera positions the same and committed them
+[26.06.22, 16:12:25] Gaia Gragnolati: oki
+[26.06.22, 16:13:40] Gaia Gragnolati: "Because you are not a member of this project this build will not access Unity services" (error that i get when i try to download the game)
+[26.06.22, 16:14:57] Melisa: Oh
+[26.06.22, 16:15:09] Melisa: I'm coming to discord now
+[26.06.22, 16:16:19] Gaia Gragnolati: i think i might have fixed it
+[26.06.22, 16:16:30] Gaia Gragnolati: i m quikly going to the toilet and i ll join
+‎[26.06.22, 18:32:33] Melisa: Group_1_Human_Invasion.pdf • ‎2 pages ‎<attached: 00001494-Group_1_Human_Invasion.pdf>
+[27.06.22, 08:20:29] Melisa: ‎You deleted this message.
+‎[27.06.22, 08:20:46] Melisa: ‎image omitted
+[27.06.22, 10:26:04] Chloe Azor: Yayyyy! I can’t wait to see our result!!
+[27.06.22, 10:43:27] Melisa: Exactlyyyy!
+[07.07.22, 12:05:49] Gaia Gragnolati: Hey guys, we should meet up soon!!
+[07.07.22, 12:07:08] Gaia Gragnolati: I ll be leaving on Sunday and won't be back till the 17th. I ve heard Chloe leaves the 19th. So what about meeting for a lunch tomorrow or Saturday? The other option would be shifting it to the 18th I guess :/
+[07.07.22, 12:08:09] Chloe Azor: I will be free tomorrow after 12 💪🏼. And Saturday the whole day and I’m the 18th😊. Whatever Will work for you guys🎉🎉
+[07.07.22, 12:12:06] Melisa: Hey guys. I'm also free tomorrow after 11:30 or 12:00. Saturday is also fine though
+[07.07.22, 12:12:08] Gaia Gragnolati: Tomorrow would be the best option for me :)
+[07.07.22, 12:12:18] Melisa: Let's do it then! :)
+[07.07.22, 12:13:46] Gaia Gragnolati: Ok, then let s do it tomorrow??
+[07.07.22, 12:13:59] Chloe Azor: Yeah that works💪🏼💪🏼😊
+[07.07.22, 12:14:01] Gaia Gragnolati: What about 13?
+[07.07.22, 12:14:14] Gaia Gragnolati: I was thinking Gustav Grün is a nice place
+[07.07.22, 12:14:24] Gaia Gragnolati: But i m open for other places too
+[07.07.22, 12:14:57] Melisa: And then having some coctails in Extrablatt maybe? :D
+[07.07.22, 12:15:03] Melisa: if you are also down
+[07.07.22, 12:15:16] Chloe Azor: Sounds goood💪🏼💪🏼
+[07.07.22, 12:16:18] Gaia Gragnolati: Nicee
+[08.07.22, 11:56:38] Melisa: Are we meeting directly in Gustav?
+[08.07.22, 12:15:09] Gaia Gragnolati: yes
+[08.07.22, 12:15:28] Gaia Gragnolati: i ll be there around 1315, sorry i m running late
+[08.07.22, 12:19:55] Chloe Azor: No problem I’ll leave my place to then also be there at 13:15
+[08.07.22, 14:37:48] Gaia Gragnolati: @491782002158 where are u
+[08.07.22, 14:37:54] Gaia Gragnolati: We are on the second floor
+[08.07.22, 14:38:08] Gaia Gragnolati: We re gonna try things on soon
+‎[14.07.22, 08:56:29] Melisa: ‎image omitted
+[14.07.22, 08:56:47] Melisa: Shall I take one of you and one of the tutors out in this case?
+[14.07.22, 08:57:18] Chloe Azor: You can take me out if you’d like?
+[14.07.22, 08:57:25] Melisa: Thank you so much!
+[14.07.22, 09:35:47] Chloe Azor: Pleasureeee! Can’t wait to get our results!
+[14.07.22, 09:36:29] Melisa: Me neither! I'm really looking forward to it! 🌻
+[24.08.22, 10:41:59] Chloe Azor: Heyyy guysss! Did you guys also get the grade for our game?
+[24.08.22, 11:04:36] Gaia Gragnolati: Hey
+[24.08.22, 11:05:12] Gaia Gragnolati: I haven't checked, i m on vacation now. Did they send an email?
+‎[24.08.22, 11:06:37] Chloe Azor: ‎<attached: 00001530-PHOTO-2022-08-24-11-06-37.jpg>
+[24.08.22, 11:08:26] Melisa: Hey. I haven’t received it yet either
+‎[24.08.22, 11:09:10] Chloe Azor: ‎<attached: 00001532-PHOTO-2022-08-24-11-09-10.jpg>
+[24.08.22, 11:09:20] Chloe Azor: Ahhh okay! Maybe it’s still coming!
+[24.08.22, 11:43:57] Melisa: It is not bad but I kinda expected it around 1.5 or something
+[24.08.22, 12:02:52] Chloe Azor: Yeah! Same! But we can wait until we see what yours says.. because it doesn’t make sense that I have a mark and you guys don’t yet🤷🏼‍♀️
+[24.08.22, 12:03:45] Melisa: Yes you're right
+[25.08.22, 09:44:28] Gaia Gragnolati: I also got the grade I just checked
+[25.08.22, 09:44:55] Gaia Gragnolati: I was also expecting a higher grade to be honest 😱
+[25.08.22, 09:45:30] Chloe Azor: Yeahhh me too… we added so many extra fractures 🥲🥲🤷🏼‍♀️
+[25.08.22, 09:45:35] Chloe Azor: Features*
+[25.08.22, 09:48:32] Gaia Gragnolati: Yea dont understand how they graded us
+[25.08.22, 09:58:20] Melisa: I still do not have a grade
+[25.08.22, 09:58:30] Melisa: If we want, we can send an email to them
+[25.08.22, 09:58:55] Melisa: like really what they expect, creating a multiplayer game in 4 weeks
+[25.08.22, 09:59:44] Melisa: Did you also get the grade via email?
+[25.08.22, 10:00:21] Gaia Gragnolati: Yea I can write something, when I go back to Italy ( I ll send it to you before)
+[25.08.22, 10:00:44] Gaia Gragnolati: No, on Opium (cause I registered on exa)
+[25.08.22, 10:00:57] Melisa: I think i wasn't registered
+[25.08.22, 10:01:11] Melisa: I don't know whether I did a mistake on that
+[25.08.22, 10:02:20] Melisa: Were we supposed to do that? I don't remember them saying opium
+[25.08.22, 11:10:45] Melisa: Do you guys also know how we can get our grade of python? Did you get anything about it?
+[25.08.22, 11:10:58] Melisa: Or we'll go to the examinations office to collect the Schneine again
+[25.08.22, 11:11:45] Chloe Azor: I’m not too sure😬. All I know is because I study under the new regulations, everything goes through exa for me🤷🏼‍♀️
+[25.08.22, 11:11:59] Melisa: because you're bachelors right?
+[25.08.22, 11:12:12] Chloe Azor: I have not received my grade yet, as far as I know mine should be through exa but not sure about yours🙈🙈
+[25.08.22, 11:12:18] Chloe Azor: Yes😊
+[25.08.22, 11:12:41] Melisa: Yes, because master's students do not use exa as I heard from many people
+[25.08.22, 11:13:26] Chloe Azor: Ahhh okay! Maybe it would be worth contacting the examinations office, I know one can call today from 10:00 - 12:00
+[25.08.22, 11:14:16] Melisa: I also sent an email to one of the tutors. I'll cal them as well, thank you! ☺️
+‎[05.09.22, 10:26:09] Gaia Gragnolati: ‎image omitted
+[05.09.22, 10:27:01] Chloe Azor: Hey guys! That sounds perfect! Thank you for including me😊
+[05.09.22, 10:28:50] Melisa: You’re welcome! 🌻
+[05.09.22, 10:29:13] Melisa: When will you be back btw? We should meet again!
+[16.09.22, 14:47:38] Melisa: Hey guys, how are you doing?:)
+[16.09.22, 14:47:51] Melisa: ‎You deleted this message.
+[16.09.22, 14:48:07] Melisa: Shall we take a further step by either contacting Peter König or something else?
+[16.09.22, 14:53:42] Melisa: I feel like our email wasn't enough to convince them and I think hey are being unfair to us
+[16.10.22, 19:31:54] Gaia Gragnolati: Hey guys!!! This week I'll start running again, let me know if you want to join :)
+[17.10.22, 07:57:16] Chloe Azor: Heyyy guys! Thanks so much Gaia for the invite! My parents just got a puppy so I’d have to stay home during the start of the semester to look after it while they work . Butttttt I’d love to join as soon as I’m back❤️
+[17.10.22, 07:57:34] Chloe Azor: Are you guys going to take AuD this semester?
+[17.10.22, 08:42:29] Gaia Gragnolati: Omg that s awesome😻😻
+[17.10.22, 08:43:02] Gaia Gragnolati: I don't think so actually :(
+[17.10.22, 15:28:23] Melisa: I am also not sure about that course yet
+[10.07.23, 17:21:45] Melisa: Hey guys, how are you doing? I wanted to ask you if I can export this chat to ıse in my Scientific Programming in Python project? :) We are planning to do data analysis on it
+[10.07.23, 17:23:28] Chloe Azor: Heyyy Melisa! I have no prob with that 😊
+[10.07.23, 17:23:39] Melisa: Thank you so much! :)
+[10.07.23, 17:24:03] Chloe Azor: I hope I haven’t said anything “weird” 😂
+[10.07.23, 17:24:16] Melisa: Hahaha no worries :D
+[10.07.23, 17:24:28] Chloe Azor: Goodluck with the project 🫶🏼
+[10.07.23, 17:25:11] Melisa: Thanks a lot and I wish you good luck with your exams/projects as well :)
+[10.07.23, 20:14:07] Gaia Gragnolati: Cool!! Yes sure thing ☺️

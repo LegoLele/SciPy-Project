@@ -1,14 +1,10 @@
-import csv
-
 # Opens the WhatsApp dataset in the read mode
-def read_csv():
+def read_data():
     with open(whatsapp_data_path, "r") as file:
-        read_dataset = csv.reader(file)
-        for row in read_dataset:
-            print(row)
-
-
+        reader = file.read()
+        print(reader)
+        
 
 # Define a file path
-whatsapp_data_path = ""
-read_csv()
+whatsapp_data_path = "Data/WhatsApp_data.txt"
+read_data()
