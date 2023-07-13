@@ -32,9 +32,10 @@ def read_data(whatsapp_data_path):
         "Message": reg_match[i][2]
         }
 
+        # Dictionaries are appended to the chat_df list
         chat_df.append(j)
 
-    # Dictionaries are appended to the chat_df list
+    # chat_df list is converted into a dataframe
     chat_df = pd.DataFrame(chat_df)
 
     return chat_df
