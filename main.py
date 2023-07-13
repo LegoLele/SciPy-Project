@@ -2,10 +2,13 @@ import pandas as pd
 import re
 
 
-def read_data():
+def read_data(whatsapp_data_path):
     """
     Reads the data, extracts timestamps, senders and messages, converts the data into dataframe.
 
+    Args:
+        whatsapp_data_path (str): The file path of the WhatsApp chat data.
+        
     Returns:
         chat_df: The WhatsApp chat data is returned as a dataframe.
     """ 
@@ -39,5 +42,5 @@ def read_data():
 
 # Define a file path
 whatsapp_data_path = "Data/WhatsApp_data.txt"
-df = read_data()
+df = read_data(whatsapp_data_path)
 print(df)
