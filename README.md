@@ -20,7 +20,7 @@
 - GitHub:
 
 **Leo Ritterbecks**
-- Email:
-- GitHub:
+- Email: lritterbecks@uni-osnabrueck.de
+- GitHub: [LegoLele](https://github.com/legolele)
 
 
