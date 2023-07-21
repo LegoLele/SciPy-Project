@@ -1,6 +1,7 @@
 import pandas as pd
 import re
 
+
 def read_data(whatsapp_data_path):
     """
     Reads the data, extracts timestamps, senders and messages, converts the data into dataframe.
@@ -41,8 +42,28 @@ def read_data(whatsapp_data_path):
     chat_df = chat_df[2:]
 
     return chat_df
-    
-def simple_analysis(df):
+
+def is_emoji(char):
+
+    # Unicode ranges for emojis
+    emojis = [
+        (0x1F600, 0x1F64F),  # Emoticons
+        (0x1F300, 0x1F5FF),  # Miscellaneous Symbols and Pictographs
+        (0x1F910, 0x1F95F),  # Clothing and Accessories
+        (0x1F980, 0x1F9EF),  # Food, Drink, and Cooking
+        (0x1F680, 0x1F6FF),  # Transport and Map Symbols
+        (0x1F700, 0x1F77F),  # Alchemical Symbols
+        (0x1F780, 0x1F7FF),  # Geometric Shapes Extended
+        (0x1F900, 0x1F9FF),  # Supplemental Symbols and Pictographs
+    ]
+
+    for start, end in emojis:
+        if start <= ord(char) <= end:
+            return True
+    return False
+
+
+def text_analysis(df):
     # Most active time
     df['Time'] = pd.to_datetime(df['Time'], format='%d.%m.%y, %H:%M:%S')
     df['hour'] = df['Time'].dt.hour
@@ -73,6 +94,17 @@ def simple_analysis(df):
     total_messages = len(df)
     print(f"The total number of messages: {total_messages}")
 
+    # Most frequently used emoji
+    emoji_list = []
+    for message in df["Message"]:
+        emoji_list.extend([e for e in message if is_emoji(e)])
+
+    count_emojis = pd.Series(emoji_list).value_counts()
+    if not count_emojis.empty:
+        most_freq_emoji = count_emojis.idxmax()
+        most_freq_emoji_count = count_emojis[most_freq_emoji]
+        print(f"The most frequently used emoji is {most_freq_emoji} which occured {most_freq_emoji_count} times.")
+
 
 if __name__ == "__main__":
     # Define a file path
@@ -80,4 +112,4 @@ if __name__ == "__main__":
 
     df = read_data(whatsapp_data_path)
     print(df)
-    simple_analysis(df)
+    text_analysis(df)
