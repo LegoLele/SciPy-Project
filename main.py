@@ -69,6 +69,11 @@ def simple_analysis(df):
     min_messages_percent = round(min_messages/len(df) * 100, 2)
     print(f"The sender with the least messages is {min_sender} with {min_messages} messages ({min_messages_percent}%).")
 
+    # Total number of messages
+    total_messages = len(df)
+    print(f"The total number of messages: {total_messages}")
+
+
 if __name__ == "__main__":
     # Define a file path
     whatsapp_data_path = "Data/WhatsApp_data.txt"
