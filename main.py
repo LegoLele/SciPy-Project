@@ -111,12 +111,13 @@ def activity_heatmap():
         user_heatmap_data = df.groupby(["Sender", "Hour"]).size().reset_index(name = "message_count")
 
         heatmap = user_heatmap_data.pivot(index = "Sender", columns = "Hour", values = "message_count")
-
         plt.figure(figsize =(10, 5))
-        sns.heatmap(heatmap, cmap='YlGnBu', annot=True)
-        plt.title("WhatsApp Activity Heatmap ")
+        purple_cmap = sns.color_palette("flare", as_cmap=True)
+        sns.heatmap(heatmap, cmap=purple_cmap, annot=True, fmt=".0f")
+        plt.title("WhatsApp User Activity Heatmap on Hourly Basis")
         plt.xlabel("Hour of the Day")
         plt.ylabel("Sender")
+        plt.tight_layout()
         plt.show()
 
         
