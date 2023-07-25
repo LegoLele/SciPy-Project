@@ -114,7 +114,7 @@ def activity_heatmap():
         plt.figure(figsize =(10, 5))
         purple_cmap = sns.color_palette("flare", as_cmap=True)
         sns.heatmap(heatmap, cmap=purple_cmap, annot=True, fmt=".0f")
-        plt.title("WhatsApp User Activity Heatmap on Hourly Basis")
+        plt.title("WhatsApp User Activity on Hourly Basis")
         plt.xlabel("Hour of the Day")
         plt.ylabel("Sender")
         plt.tight_layout()
