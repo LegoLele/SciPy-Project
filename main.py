@@ -1,5 +1,7 @@
 import pandas as pd
 import re
+import matplotlib.pyplot as plt
+import seaborn as sns
 
 
 def read_data(whatsapp_data_path):
@@ -66,8 +68,8 @@ def is_emoji(char):
 def text_analysis(df):
     # Most active time
     df['Time'] = pd.to_datetime(df['Time'], format='%d.%m.%y, %H:%M:%S')
-    df['hour'] = df['Time'].dt.hour
-    hourly_counts = df.groupby('hour').size()
+    df['Hour'] = df['Time'].dt.hour
+    hourly_counts = df.groupby('Hour').size()
     max_hour = hourly_counts.idxmax()
     max_messages = hourly_counts[max_hour]
     print(f"The most messages were sent between {max_hour} and {(max_hour+1)} o'clock ({max_messages} messages).")
@@ -105,7 +107,19 @@ def text_analysis(df):
         most_freq_emoji_count = count_emojis[most_freq_emoji]
         print(f"The most frequently used emoji is {most_freq_emoji} which occured {most_freq_emoji_count} times.")
 
+def activity_heatmap():
+        user_heatmap_data = df.groupby(["Sender", "Hour"]).size().reset_index(name = "message_count")
 
+        heatmap = user_heatmap_data.pivot(index = "Sender", columns = "Hour", values = "message_count")
+
+        plt.figure(figsize =(10, 5))
+        sns.heatmap(heatmap, cmap='YlGnBu', annot=True)
+        plt.title("WhatsApp Activity Heatmap ")
+        plt.xlabel("Hour of the Day")
+        plt.ylabel("Sender")
+        plt.show()
+
+        
 if __name__ == "__main__":
     # Define a file path
     whatsapp_data_path = "Data/WhatsApp_data.txt"
@@ -113,3 +127,4 @@ if __name__ == "__main__":
     df = read_data(whatsapp_data_path)
     print(df)
     text_analysis(df)
+    activity_heatmap()
