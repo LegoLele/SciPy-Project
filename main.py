@@ -1,7 +1,8 @@
 import pandas as pd
-import re
 import matplotlib.pyplot as plt
+import re
 import seaborn as sns
+from statsmodels.tsa.stattools import adfuller
 
 
 def read_data(whatsapp_data_path):
@@ -64,7 +65,6 @@ def is_emoji(char):
             return True
     return False
 
-
 def text_analysis(df):
     # Most active time
     df['Time'] = pd.to_datetime(df['Time'], format='%d.%m.%y, %H:%M:%S')
@@ -77,7 +77,7 @@ def text_analysis(df):
     # Least active time
     min_hour = hourly_counts.idxmin()
     min_messages = hourly_counts[min_hour]
-    print(f"The least messages were sent between {min_hour} and {(min_hour+1)} o'clock ({min_messages} messages).")
+    print(f"Excluding hours without meassages, the least messages were sent between {min_hour} and {(min_hour+1)} o'clock ({min_messages} messages).")
 
     # Most active author
     sender_counts = df['Sender'].value_counts()
@@ -120,12 +120,23 @@ def activity_heatmap():
         plt.tight_layout()
         plt.show()
 
-        
+def test_stationarity(df):
+    # Construct timeseries with meassage count
+    timeseries = df.groupby('Time').size()
+    # Perform Dickey-Fuller test
+    dftest = adfuller(timeseries, autolag='AIC')
+    result = pd.Series(dftest[0:4], index=['Test Statistic', 'p-value', 'Lags Used', 'Number of Observations Used'])
+    for key, value in dftest[4].items():
+        result[f'Critical Value ({key})'] = value
+    return result
+
 if __name__ == "__main__":
     # Define a file path
     whatsapp_data_path = "Data/WhatsApp_data.txt"
-
     df = read_data(whatsapp_data_path)
+
     print(df)
     text_analysis(df)
     activity_heatmap()
+    print(test_stationarity(df))
+    print("-> Since the Test Statistic is clearly more negative than all Critical values, we can safely consider our data as stationary and don't have to make it stationary.")
