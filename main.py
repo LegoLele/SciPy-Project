@@ -10,17 +10,17 @@ from statsmodels.tsa.arima.model import ARIMA
 
 def ask_for_custom_data():
     user_choice = input('Do you wish to analize your own exported data set? (Y/N)\n')
-    if user_choice == 'N' or 'n':
-        return False
-    elif user_choice == 'Y' or 'y':
+    if user_choice == 'Y' or 'y':
         return True
-    
-    while True:
-        user_choice = input('Incorrect input!\nDo you wish to analize your own exported data set? (Y/N)\n')
-        if user_choice == 'N' or user_choice =='n':
-            return False
-        if user_choice == 'Y' or user_choice == 'y':
-            return True
+    elif user_choice == 'N' or 'n':
+        return False
+    else:
+        while True:
+            user_choice = input('Incorrect input!\nDo you wish to analize your own exported data set? (Y/N)\n')
+            if user_choice == 'N' or user_choice =='n':
+                return False
+            if user_choice == 'Y' or user_choice == 'y':
+                return True
 
 if __name__ == "__main__":
     # File path for future use
