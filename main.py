@@ -9,36 +9,32 @@ from statsmodels.tsa.stattools import adfuller
 from statsmodels.tsa.arima.model import ARIMA
 
 def ask_for_custom_data():
-    user_choice = input('Do you wish to analize your own exported data set? (Y/N)\n')
-    if user_choice == 'Y' or 'y':
-        return True
-    elif user_choice == 'N' or 'n':
+    """
+    Asks the user whether they wish to analyze their own exported data or use the default data.
+    
+    Returns:
+        str or bool: If the user chooses to use their own data set ('Y' or 'y'), the function prompts for the file path and returns the path (str).
+                     If the user chooses not to use their own data set ('N' or 'n'), the function returns False to use the default data.
+    """
+
+    user_choice = input('Do you wish to analyze your own exported data set? (Y/N)\n')
+    if user_choice.lower() == 'n':
         return False
-    else:
+    elif user_choice.lower() == 'y':
         while True:
-            user_choice = input('Incorrect input!\nDo you wish to analize your own exported data set? (Y/N)\n')
-            if user_choice == 'N' or user_choice =='n':
-                return False
-            if user_choice == 'Y' or user_choice == 'y':
-                return True
+            user_input = input('Please make sure you put the raw txt export of the chat to avoid issues with the code.\nWhat\'s the path of your exported chat file?\n')
+            if os.path.isfile(user_input):
+                return user_input
+            else:
+                print("Invalid path! Please try again!\n")
 
 if __name__ == "__main__":
-    # File path for future use
-    data_path = ''
+   # Default file path
+    data_path = "Data/WhatsApp_data.txt"
 
     custom_data = ask_for_custom_data()
     if custom_data:
-        user_input = input('Please make sure you put the raw txt export of the chat to avoid issues with the code.\nWhat\'s the path of your exported chat file?\n')
-        if os.path.isfile(user_input):
-            data_path = user_input
-        else:
-            while True:
-                user_input = input('Invalid path!\nWhat\'s the path of your exported chat file?\n')
-                if os.path.isfile(user_input):
-                    data_path = user_input
-                    break
-    else:
-        data_path = "Data/WhatsApp_data.txt"
+        data_path = custom_data
 
     df = helper.read_data(data_path)
 
