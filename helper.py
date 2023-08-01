@@ -45,6 +45,18 @@ def read_data(whatsapp_data_path):
     return chat_df
 
 def is_emoji(char):
+    """
+    Checks if a given character is an emoji.
+
+    This function takes a Unicode character as input and checks if it falls within the ranges
+    corresponding to emojis based on their Unicode values.
+
+    Args:
+        char (str): A Unicode character to be checked.
+
+    Returns:
+        bool: Returns True if the character is an emoji, False otherwise.
+    """
 
     # Unicode ranges for emojis
     emojis = [
@@ -58,6 +70,7 @@ def is_emoji(char):
         (0x1F900, 0x1F9FF),  # Supplemental Symbols and Pictographs
     ]
 
+    # Check if the given character falls within the Unicode value range
     for start, end in emojis:
         if start <= ord(char) <= end:
             return True
@@ -106,14 +119,31 @@ def text_analysis(df):
         print(f"The most frequently used emoji is {most_freq_emoji} which occured {most_freq_emoji_count} times.")
 
 def activity_heatmap(df):
-        user_heatmap_data = df.groupby(["Sender", "Hour"]).size().reset_index(name = "message_count")
+    """
+    Creates a heatmap displaying WhatsApp user activity on an hourly basis.
 
-        heatmap = user_heatmap_data.pivot(index = "Sender", columns = "Hour", values = "message_count")
-        plt.figure(figsize =(10, 5))
-        purple_cmap = sns.color_palette("flare", as_cmap=True)
-        sns.heatmap(heatmap, cmap=purple_cmap, annot=True, fmt=".0f")
-        plt.title("WhatsApp User Activity on Hourly Basis")
-        plt.xlabel("Hour of the Day")
-        plt.ylabel("Sender")
-        plt.tight_layout()
-        plt.show()
+    This function takes a DataFrame containing WhatsApp chat data, groups the data by "Sender" and "Hour" columns,
+    and generates a heatmap that visualizes the number of messages sent by each sender during different hours of the day.
+
+    Args:
+        df (pd.DataFrame): The DataFrame containing WhatsApp chat data with columns "Sender" and "Hour".
+    """
+
+    # Group the dataframe by "Sender" and "Hour" columns and calculate the number of messages sent by each sender at different hours.
+    user_heatmap_data = df.groupby(["Sender", "Hour"]).size().reset_index(name = "message_count")
+
+    # Create a heatmap using "Sender" as index, "Hour" as columns, and "message_count" as values
+    heatmap = user_heatmap_data.pivot(index = "Sender", columns = "Hour", values = "message_count")
+
+    # Create the figure with a size of 10x5
+    plt.figure(figsize = (10, 5))
+
+    # Define a custom color map
+    purple_cmap = sns.color_palette("flare", as_cmap=True)
+
+    sns.heatmap(heatmap, cmap=purple_cmap, annot=True, fmt=".0f")
+    plt.title("WhatsApp User Activity on Hourly Basis")
+    plt.xlabel("Hour of the Day")
+    plt.ylabel("Sender")
+    plt.tight_layout()
+    plt.show()
