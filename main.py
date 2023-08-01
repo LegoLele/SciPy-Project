@@ -17,9 +17,9 @@ def ask_for_custom_data():
     
     while True:
         input = input('Incorrect input!\nDo you wish to analize your own exported data set? (Y/N)\n')
-        if input == 'N' or 'n':
+        if input == 'N' or input =='n':
             return False
-        if input == 'Y' or 'y':
+        if input == 'Y' or input == 'y':
             return True
 
 if __name__ == "__main__":
