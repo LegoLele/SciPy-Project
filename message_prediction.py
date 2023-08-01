@@ -78,7 +78,7 @@ def predict_chat_messages(df, n_periods):
 
     if not is_stationary:
         print("Data is not stationary. Apply transformations to make it stationary.")
-        return
+        return None
 
     # Fit ARIMA model
     model_fit = fit_arima_model(df_arima)

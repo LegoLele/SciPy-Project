@@ -2,7 +2,6 @@ import helper
 import message_prediction as mp
 import pandas as pd
 import matplotlib.pyplot as plt
-import re
 import os
 import seaborn as sns
 from statsmodels.tsa.stattools import adfuller
@@ -40,6 +39,13 @@ if __name__ == "__main__":
 
     print(df)
     helper.text_analysis(df)
-    helper.activity_heatmap(df)
     
-    print(mp.predict_chat_messages(df,20))
+    # Display the heatmap using plt.show()
+    heatmap_plot = helper.activity_heatmap(df)
+    plt.title("WhatsApp User Activity on Hourly Basis")
+    plt.xlabel("Hour of the Day")
+    plt.ylabel("Sender")
+    plt.tight_layout()
+    plt.show()
+    
+    print(mp.predict_chat_messages(df, 20))
