@@ -129,17 +129,21 @@ def activity_heatmap(df):
         df (pd.DataFrame): The DataFrame containing WhatsApp chat data with columns "Sender" and "Hour".
     """
 
-     # Group the dataframe by "Sender" and "Hour" columns and calculate the number of messages sent by each sender at different hours.
-    user_heatmap_data = df.groupby(["Sender", "Hour"]).size().reset_index(name="message_count")
+    # Group the dataframe by "Sender" and "Hour" columns and calculate the number of messages sent by each sender at different hours.
+    user_heatmap_data = df.groupby(["Sender", "Hour"]).size().reset_index(name = "message_count")
 
     # Create a heatmap using "Sender" as index, "Hour" as columns, and "message_count" as values
-    heatmap = user_heatmap_data.pivot(index="Sender", columns="Hour", values="message_count")
+    heatmap = user_heatmap_data.pivot(index = "Sender", columns = "Hour", values = "message_count")
 
     # Create the figure with a size of 10x5
-    plt.figure(figsize=(10, 5))
+    plt.figure(figsize = (10, 5))
 
     # Define a custom color map
     purple_cmap = sns.color_palette("flare", as_cmap=True)
 
-    # Create and return the heatmap
-    return sns.heatmap(heatmap, cmap=purple_cmap, annot=True, fmt=".0f")
+    sns.heatmap(heatmap, cmap=purple_cmap, annot=True, fmt=".0f")
+    plt.title("WhatsApp User Activity on Hourly Basis")
+    plt.xlabel("Hour of the Day")
+    plt.ylabel("Sender")
+    plt.tight_layout()
+    plt.show()

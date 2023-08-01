@@ -39,13 +39,6 @@ if __name__ == "__main__":
 
     print(df)
     helper.text_analysis(df)
-    
-    # Display the heatmap using plt.show()
-    heatmap_plot = helper.activity_heatmap(df)
-    plt.title("WhatsApp User Activity on Hourly Basis")
-    plt.xlabel("Hour of the Day")
-    plt.ylabel("Sender")
-    plt.tight_layout()
-    plt.show()
+    helper.activity_heatmap(df)
     
     print(mp.predict_chat_messages(df, 20))
