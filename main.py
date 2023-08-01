@@ -9,17 +9,17 @@ from statsmodels.tsa.stattools import adfuller
 from statsmodels.tsa.arima.model import ARIMA
 
 def ask_for_custom_data():
-    input = input('Do you wish to analize your own exported data set? (Y/N)\n')
-    if input == 'N' or 'n':
+    user_choice = input('Do you wish to analize your own exported data set? (Y/N)\n')
+    if user_choice == 'N' or 'n':
         return False
-    if input == 'Y' or 'y':
+    elif user_choice == 'Y' or 'y':
         return True
     
     while True:
-        input = input('Incorrect input!\nDo you wish to analize your own exported data set? (Y/N)\n')
-        if input == 'N' or input =='n':
+        user_choice = input('Incorrect input!\nDo you wish to analize your own exported data set? (Y/N)\n')
+        if user_choice == 'N' or user_choice =='n':
             return False
-        if input == 'Y' or input == 'y':
+        if user_choice == 'Y' or user_choice == 'y':
             return True
 
 if __name__ == "__main__":
@@ -28,14 +28,14 @@ if __name__ == "__main__":
 
     custom_data = ask_for_custom_data()
     if custom_data:
-        input = input('Please make sure you put the raw txt export of the chat to avoid issues with the code.\nWhat\'s the path of your exported chat file?\n')
-        if os.path.isfile(input):
-            data_path = input
+        user_input = input('Please make sure you put the raw txt export of the chat to avoid issues with the code.\nWhat\'s the path of your exported chat file?\n')
+        if os.path.isfile(user_input):
+            data_path = user_input
         else:
             while True:
-                input = input('Invalid path!\nWhat\'s the path of your exported chat file?\n')
-                if os.path.isfile(input):
-                    data_path = input
+                user_input = input('Invalid path!\nWhat\'s the path of your exported chat file?\n')
+                if os.path.isfile(user_input):
+                    data_path = user_input
                     break
     else:
         data_path = "Data/WhatsApp_data.txt"
