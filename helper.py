@@ -77,6 +77,17 @@ def is_emoji(char):
     return False
 
 def text_analysis(df):
+    """
+    Performs various text analysis methods on the group chat data.
+    
+    Analysis Results:
+    - Most active time: Identifies the hour with the most messages and the number of messages sent during that hour.
+    - Least active time: Excludes hours without messages and identifies the hour with the least messages and the number of messages sent during that hour.
+    - Most active author: Identifies the sender with the most messages and the percentage of messages they contributed to the total.
+    - Least active author: Identifies the sender with the least messages and the percentage of messages they contributed to the total.
+    - Total number of messages: Provides the total number of messages in the DataFrame.
+    - Most frequently used emoji: Identifies the most frequently used emoji in the chat messages and the number of times it appears.
+    """
     # Most active time
     df['Time'] = pd.to_datetime(df['Time'], format='%d.%m.%y, %H:%M:%S')
     df['Hour'] = df['Time'].dt.hour
