@@ -10,7 +10,7 @@ def prepare_data(df):
     Prepare the DataFrame containing the group chat data for ARIMA.
 
     Returns:
-        A new DataFrame with messages count resampled per hour, indexed by time.
+        pandas.DataFrame: A new DataFrame with messages count resampled per hour, indexed by time.
     """
     # Convert 'Time' column to datetime and set it as the index
     df['Time'] = pd.to_datetime(df['Time'], format='%d.%m.%y, %H:%M:%S')
@@ -57,7 +57,7 @@ def fit_arima_model(data):
     Fit an ARIMA model to the given time series data.
 
     Returns:
-        The fitted ARIMA model results.
+        model_fit (statsmodels.tsa.arima.model.ARIMAResults): The fitted ARIMA model results.
     """
     # Create time index for the data
     time_index = pd.date_range(start=data.index[0], periods=len(data), freq=data.index.inferred_freq)
@@ -76,7 +76,7 @@ def make_predictions(model_fit, n_periods):
     Generate forecasts for a time series model.
 
     Returns:
-        A pandas DataFrame containing the forecasted values with a time index.
+        forecast_df (DataFrame): A pandas DataFrame containing the forecasted values with a time index.
     """
     # Forecast n_periods into the future
     forecast = model_fit.forecast(steps=n_periods)
