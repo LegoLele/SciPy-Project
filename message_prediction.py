@@ -6,6 +6,12 @@ from statsmodels.tsa.stattools import adfuller
 from statsmodels.tsa.arima.model import ARIMA
 
 def prepare_data(df):
+    """
+    Prepare the DataFrame containing the group chat data for ARIMA.
+
+    Returns:
+        A new DataFrame with messages count resampled per hour, indexed by time.
+    """
     # Convert 'Time' column to datetime and set it as the index
     df['Time'] = pd.to_datetime(df['Time'], format='%d.%m.%y, %H:%M:%S')
     df.set_index('Time', inplace=True)
@@ -21,6 +27,12 @@ def prepare_data(df):
     return messages_per_hour
 
 def check_stationarity(data):
+    """
+    Check stationarity of the group chat data using the Dickey-Fuller test. (Data needs to be stationary for ARIMA)
+
+    Returns:
+        bool: True if the data is stationary (reject the null hypothesis), False if it is non-stationary (fail to reject the null hypothesis).
+    """
     # Perform Dickey-Fuller test
     result = adfuller(data, autolag='AIC')
 
@@ -41,6 +53,12 @@ def check_stationarity(data):
         return False
 
 def fit_arima_model(data):
+    """
+    Fit an ARIMA model to the given time series data.
+
+    Returns:
+        The fitted ARIMA model results.
+    """
     # Create time index for the data
     time_index = pd.date_range(start=data.index[0], periods=len(data), freq=data.index.inferred_freq)
 
@@ -54,6 +72,12 @@ def fit_arima_model(data):
     return model_fit
 
 def make_predictions(model_fit, n_periods):
+    """
+    Generate forecasts for a time series model.
+
+    Returns:
+        A pandas DataFrame containing the forecasted values with a time index.
+    """
     # Forecast n_periods into the future
     forecast = model_fit.forecast(steps=n_periods)
 
@@ -70,6 +94,14 @@ def make_predictions(model_fit, n_periods):
     return forecast_df
 
 def predict_chat_messages(df, n_periods):
+     """
+    Predicts future chat message counts using the ARIMA model.
+
+    Returns:
+    pandas.DataFrame or None: A DataFrame containing the forecasted chat message counts for the specified
+                              number of future periods. Returns None if the data is not stationary and
+                              cannot be fitted with an ARIMA model.
+    """
     # Prepare data
     df_arima = prepare_data(df)
 
