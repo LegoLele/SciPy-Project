@@ -79,6 +79,9 @@ def is_emoji(char):
 def text_analysis(df):
     """
     Performs various text analysis methods on the group chat data.
+
+    Args:
+        df (pd.DataFrame): The DataFrame containing WhatsApp chat data.
     
     Analysis Results:
     - Most active time: Identifies the hour with the most messages and the number of messages sent during that hour.
@@ -88,6 +91,7 @@ def text_analysis(df):
     - Total number of messages: Provides the total number of messages in the DataFrame.
     - Most frequently used emoji: Identifies the most frequently used emoji in the chat messages and the number of times it appears.
     """
+
     # Most active time
     df['Time'] = pd.to_datetime(df['Time'], format='%d.%m.%y, %H:%M:%S')
     df['Hour'] = df['Time'].dt.hour
@@ -133,8 +137,8 @@ def activity_heatmap(df):
     """
     Creates a heatmap displaying WhatsApp user activity on an hourly basis.
 
-    This function takes a DataFrame containing WhatsApp chat data, groups the data by "Sender" and "Hour" columns,
-    and generates a heatmap that visualizes the number of messages sent by each sender during different hours of the day.
+    Groups the data by "Sender" and "Hour" columns, and generates a heatmap that visualizes the number of messages
+    sent by each user during different hours of the day.
 
     Args:
         df (pd.DataFrame): The DataFrame containing WhatsApp chat data with columns "Sender" and "Hour".
@@ -152,6 +156,7 @@ def activity_heatmap(df):
     # Define a custom color map
     purple_cmap = sns.color_palette("flare", as_cmap=True)
 
+    # Display user activity heatmap with message counts
     sns.heatmap(heatmap, cmap=purple_cmap, annot=True, fmt=".0f")
     plt.title("WhatsApp User Activity on Hourly Basis")
     plt.xlabel("Hour of the Day")

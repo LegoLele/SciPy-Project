@@ -12,6 +12,7 @@ def prepare_data(df):
     Returns:
         pandas.DataFrame: A new DataFrame with messages count resampled per hour, indexed by time.
     """
+
     # Convert 'Time' column to datetime and set it as the index
     df['Time'] = pd.to_datetime(df['Time'], format='%d.%m.%y, %H:%M:%S')
     df.set_index('Time', inplace=True)
@@ -33,6 +34,7 @@ def check_stationarity(data):
     Returns:
         bool: True if the data is stationary (reject the null hypothesis), False if it is non-stationary (fail to reject the null hypothesis).
     """
+
     # Perform Dickey-Fuller test
     result = adfuller(data, autolag='AIC')
 
@@ -59,6 +61,7 @@ def fit_arima_model(data):
     Returns:
         model_fit (statsmodels.tsa.arima.model.ARIMAResults): The fitted ARIMA model results.
     """
+
     # Create time index for the data
     time_index = pd.date_range(start=data.index[0], periods=len(data), freq=data.index.inferred_freq)
 
@@ -94,7 +97,7 @@ def make_predictions(model_fit, n_periods):
     return forecast_df
 
 def predict_chat_messages(df, n_periods):
-     """
+    """
     Predicts future chat message counts using the ARIMA model.
 
     Returns:
@@ -102,6 +105,7 @@ def predict_chat_messages(df, n_periods):
                               number of future periods. Returns None if the data is not stationary and
                               cannot be fitted with an ARIMA model.
     """
+    
     # Prepare data
     df_arima = prepare_data(df)
 
