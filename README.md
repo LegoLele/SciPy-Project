@@ -1,8 +1,8 @@
 ## **Scientific Programming in Python - Chat Analyzer**
 
-### The project is designed to analyze WhatsApp chat.
+#### The project is designed to analyze WhatsApp chat.
 
-#### Features
+### Features
 
 1. **Read and Preprocess Data**: The `read_data` function reads WhatsApp chat data from a text file, extracts relevant information, and converts it into a DataFrame for further analysis.
 
@@ -10,10 +10,10 @@
 
 3. **User Activity Heatmap**: The `activity_heatmap` function generates a heatmap that displays user activity based on the number of messages sent by each user during different hours of the day.
 
-4. **ARIMA-based Prediction**: The `predict_chat_messages` function utilizes the ARIMA model to predict future chat message counts, helping to anticipate message patterns.
+4. **ARIMA-based Prediction**: The `predict_chat_messages` function utilizes the ARIMA model to predict future chat message counts.
 
 
-## Contact
+### Contact
 
 **Melisa Altinyelek**
 - Email: maltinyelek@uni-osnabrueck.de
